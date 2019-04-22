@@ -19,7 +19,7 @@
 * CNN可以学到**模式的空间层次结构**
     * 第一个卷积层将学习较小的局部模式（比如边缘），第二个卷积层将学习由第一层特征组成的更大的模式，以此类推。
     * 这使得卷积神经网络可以有效地学习越来越复杂、越来越抽象的视觉概念（因为**视觉世界从根本上具有空间层次结构**）。
-    * ![](https://github.com/dyngq/notebooks/tree/master/images/cnn-20190422/01.png)
+    * ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/01.png)
     * 
     
     
