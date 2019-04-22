@@ -46,6 +46,9 @@
     * 边界效应，可以通过对输入特征图进行填充来抵消。
     * 使用了步幅（stride）。卷积步幅，步进卷积。
     * **Gif动图**说明。
+    ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/01.gif)
+    ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/02.gif)
+    ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/03.gif)
  
 #### 6.最大池化
 * 在每个 MaxPooling2D 层之后，特征图的尺寸都会减半。
@@ -131,7 +134,9 @@
 
 
 
-
+## 参考资料
+1.《python深度学习》(《deep learning with python》(by Francois Chollet))
+2.https://mp.weixin.qq.com/s/N85gA350s-lS5p-Q-vgeRA
   
 
 
