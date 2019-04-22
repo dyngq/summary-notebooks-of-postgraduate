@@ -20,7 +20,7 @@
     * 第一个卷积层将学习较小的局部模式（比如边缘），第二个卷积层将学习由第一层特征组成的更大的模式，以此类推。
     * 这使得卷积神经网络可以有效地学习越来越复杂、越来越抽象的视觉概念（因为**视觉世界从根本上具有空间层次结构**）。
     * ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/01.png)
-    * 
+    * ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/02.png)
     
     
 
@@ -39,8 +39,8 @@
 * 然后每个3D 图块与学到的同一个权重矩阵［叫作卷积核（convolution kernel）］做张量积，转换成形状为 (output_depth,) 的 1D 向量。
 * 然后对所有这些向量进行空间重组，使其转换为形状为 (height, width, output_depth) 的 3D 输出特征图。
 * 输出特征图中的每个空间位置都对应于输入特征图中的相同位置（比如输出的右下角包含了输入右下角的信息）。
-![4617f6511993cccc9bb3353b84932cf4.png](en-resource://database/3595:1)
-![47219c60154d6dd967b2af0c9d49eed1.png](en-resource://database/3647:1)
+![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/03.png)
+![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/04.png)
 
 * 输出的宽度和高度可能与输入的宽度和高度不同。不同的原因可能有两点。
     * 边界效应，可以通过对输入特征图进行填充来抵消。
@@ -62,7 +62,7 @@
     * 由于边界效应：每个卷积层之后，就减少两行两列
     * 由于最大池化，每个池化层之后，缩小为原来的一半
     
-![65ac80f030cf305d8f8e766619962ecd.png](en-resource://database/3600:1)
+![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/05.png)
 * 数据预处理
     * 读取图像文件。
     * 将 JPEG 文件解码为 RGB 像素网格。
@@ -83,14 +83,14 @@
 * 这让模型能够观察到数据的更多内容，从而具有更好的泛化能力。
 * 在 Keras 中，这可以通过对 ImageDataGenerator 实例读取的图像执行多次随机变换来实现
 * 需要注意的是，不能增强验证数据
-* ![debc65be0a2f738740b7452c8adb0da2.png](en-resource://database/3605:1)
+* ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/06.png)
 #### 3.使用预训练的卷积神经网络
 * 预训练网络（pretrained network）是一个保存好的网络，之前已在大型数据集（通常是大规模图像分类任务）上训练好。如果这个原始数据集足够大且足够通用，那么预训练网络学到的特征的空间层次结构可以有效地作为视觉世界的通用模型，因此这些特征可用于各种不同的计算机视觉问题，即使这些新问题涉及的类别和原始任务完全不同。
 * 使用预训练网络有两种方法：特征提取（feature extraction）和微调模型（fine-tuning）。
 #### 3.1 特征提取
 * 对于卷积神经网络而言，特征提取就是取出之前训练好的网络的卷积基，在上面运行新数据，然后在输出上面训练一个新的分类器
 * 卷积基学到的表示可能更加通用，因此更适合重复使用。所以，仅重复使用卷积基，训练密集连接分类器。
-* ![037bf88bf4d7fbef0e3ad3bababf2be5.png](en-resource://database/3610:1)
+* ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/07.png)
 * 特征提取有两种方法
     * 不使用数据增强的快速特征提取
         * 直接调用 conv_base 模型的 predict 方法来从这些图像中提取特征，将输出保存成硬盘中的 Numpy 数组，然后用这个数据作为输入，输入到独立的密集连接分类器中（注意要使用 dropout 正则化），计算量很小，计算代价低。
@@ -102,7 +102,7 @@
 * 之所以只解冻微调模型底部的一小部分层，是因为：
     * 卷积基中更靠底部的层编码的是更加通用的可复用特征，而更靠顶部的层编码的是更专业化的特征。微调这些更专业化的特征更加有用，因为它们需要在你的新问题上改变用途。微调更靠底部的层，得到的回报会更少。
     * 训练的参数越多，过拟合的风险越大。卷积基有 1500 万个参数，所以在你的小型数据集上训练这么多参数是有风险的。
-![ac66645f9778c505527f3faeb5d5914c.png](en-resource://database/3615:1)
+![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/08.png)
 
 #### 卷积神经网络的可视化
 虽然对于某些类型的深度学习模型来说，深度学习模型是“黑盒”，即模型学到的表示很难用人类可以理解的方式来提取和呈现。
@@ -114,18 +114,18 @@
 * 可视化图像中类激活的热力图：有助于理解图像的哪个部分被识别为属于某个类别，从
 而可以定位图像中的物体。
 #### 1.0
-![6bd202c61de8b384fc64cdb454a36fe8.png](en-resource://database/3652:1)
-![dd3a24b10d4a1f0d404e2897fb76b1cd.png](en-resource://database/3657:1)
-![c01ca31b61e67d5343f2f8e3fadc4d90.png](en-resource://database/3662:1)
+![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/09.png)
+![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/10.png)
+![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/11.png)
 #### 2.0
 * 随着层数的加深，卷积神经网络中的过滤器变得越来越复杂，越来越精细。
 * 模型第一层（ block1_conv1 ）的过滤器对应简单的方向边缘和颜色（还有一些是彩色边缘）。
 * block2_conv1 层的过滤器对应边缘和颜色组合而成的简单纹理。
 * 更高层的过滤器类似于自然图像中的纹理：羽毛、眼睛、树叶等。
-* ![c04379d5eabae42e8976313f3ab0be7d.png](en-resource://database/3667:1)
-![02dbac4ea9d8e494b636e28b3f6ebf88.png](en-resource://database/3672:1)
+![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/12.png)
+![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/13.png)
 #### 3.0
-![a38eb359907504af12911ca3cc0b4ce9.png](en-resource://database/3677:1)
+![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/14.png)
 
 
 
