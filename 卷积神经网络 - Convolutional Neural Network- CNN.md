@@ -46,6 +46,7 @@
     * 边界效应，可以通过对输入特征图进行填充来抵消。
     * 使用了步幅（stride）。卷积步幅，步进卷积。
     * **Gif动图**说明。
+    * 
     ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/01.gif)
     ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/02.gif)
     ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/03.gif)
