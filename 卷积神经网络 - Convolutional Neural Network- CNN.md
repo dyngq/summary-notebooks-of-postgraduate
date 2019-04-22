@@ -137,7 +137,8 @@
 
 ## 参考资料
 1.《python深度学习》(《deep learning with python》(by Francois Chollet))
-2.https://mp.weixin.qq.com/s/N85gA350s-lS5p-Q-vgeRA
+
+2.秒懂各种深度CNN操作-机器学习算法与Python学习 https://mp.weixin.qq.com/s/N85gA350s-lS5p-Q-vgeRA
   
 
 
