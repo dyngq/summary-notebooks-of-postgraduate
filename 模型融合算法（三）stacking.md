@@ -62,7 +62,7 @@ Train Data有890行。(请对应图中的上层部分）
 最后 ，放出一张Python的Code，在网上为数不多的stacking内容里， 这个几行的code你也早就看过了吧，我之前一直卡在这里，现在加上一点点注解，希望对你有帮助：
 * ![](https://github.com/dyngq/notebooks/blob/master/images/20190427-model-fusion-algorithm/stacking-4.jpg)
 
-##　第三部分：神经网络的stacking
+## 第三部分：神经网络的stacking
 * 有一篇专门的英文博客介绍了传统机器学习以及神经网络的stacking，文末链接。
 * ------------------------------------------------------------
 * 做了京东评论的情感分析，尝试使用了stacking。
