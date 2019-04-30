@@ -9,4 +9,4 @@
 ## 但行好事，莫问前程
 ## dyngq
 
-<img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/04.jpg" width = 60% height = 60% align="center" alt="但行好事，莫问前程"/>
+<img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/04.jpg" width = 61% height = 61% align="center" alt="但行好事，莫问前程"/>
