@@ -24,6 +24,11 @@
 * ![](https://github.com/dyngq/notebooks/blob/master/images/20190427-model-fusion-algorithm/stacking-2.jpg)
 * ![](https://github.com/dyngq/notebooks/blob/master/images/20190427-model-fusion-algorithm/stacking-3.jpg)
 
+* 当然，就像之前说的，stacking可以有多层，比如三层。
+* 第一层是预测器，第二层是多个混合器（混合器可以有多种，随机森林、线性回归等等），第三层是又一层的混合器。
+* 这是就需要讲训练集分成三部分，在三层上“干净的”训练。
+* 原理如下图：                                                                 
+* ![](https://github.com/dyngq/notebooks/blob/master/images/20190427-model-fusion-algorithm/stacking-7.jpg)                      
 
 ## 第二部分：下面是网上最常见的stacking方法解释(也就是文章已开始的图片所描述的)       (神经网络的stacking应用在下一部分)
 #### 一种更为复杂的方法是使用k-fold交叉验证来开发元学习机模型的训练数据集，也就是对应一开始的那张图片。每个0级模型预测器都使用k-fold交叉验证(甚至为了达到最大效果使用留一法交叉验证)进行训练;然后模型被丢弃，但是预测被保留。这意味着对于每个模型，都有一个模型版本所做的预测，而这个版本的模型并没有针对这些例子进行训练，例如，有一些在预留的例子。
