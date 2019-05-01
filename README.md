@@ -2,7 +2,7 @@
 <h3 align="right">不管什么时候开始，开始了就不要停止</h3>
 
 <div>
-<img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/01.jpg" width = 120% height = 120% alt="keep going"/>
+    <img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/01.jpg" width = 120% height = 120% alt="keep going"/>
 </div>
 
 * 1.[卷积神经网络总结](https://github.com/dyngq/notebooks/blob/master/notebooks/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%20-%20Convolutional%20Neural%20Network-%20CNN.md)
