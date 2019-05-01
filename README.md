@@ -8,5 +8,3 @@
 
 ## 但行好事，莫问前程
 ## dyngq
-
-<div align="center"> <img src="https://github.com/dyngq/notebooks/blob/master/images/dyngq-initial/04.jpg?raw=true" width="62%" height="62%"/> </div>
