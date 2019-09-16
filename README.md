@@ -1,6 +1,5 @@
-<div align="center"> <img src="https://github.com/dyngq/summary-notebooks-of-postgraduate/blob/master/images/dyngq-initial/12.jpg?raw=true" width="120%" height="120%"/> </div>
-
 # some notebooks durning the learning journey
+
 <h3 align="right">不管什么时候开始，开始了就不要停止</h3>
 
 <h2> Notebooks</h2>
