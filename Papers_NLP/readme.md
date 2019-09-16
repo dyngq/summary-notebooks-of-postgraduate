@@ -1,15 +1,5 @@
-# 论文带读学习
+# Papers_NLP
 
-1. 为什么要读论文
-!['dyngq_images'](images/dyngq_2019-09-12-20-09-31.png)
+* [综述](https://github.com/dyngq/summary-notebooks-of-postgraduate/blob/master/Papers_NLP/综述.md)
 
-2. 读哪些论文
-    * 比如：[Paper with Code](https://paperwithcode.com) 有代码可以复现
-!['dyngq_images'](images/dyngq_2019-09-12-20-07-57.png)
-
-3. 怎么读论文
-!['dyngq_images'](images/dyngq_2019-09-12-20-10-53.png)
-!['dyngq_images'](images/dyngq_2019-09-12-20-12-57.png)
-
-4. 怎么写论文
-!['dyngq_images'](images/dyngq_2019-09-12-20-15-01.png)
+1. [01_Deep_learning](https://github.com/dyngq/summary-notebooks-of-postgraduate/blob/master/Papers_NLP/01_综述_Deep_learning/Deep_learning.md)
