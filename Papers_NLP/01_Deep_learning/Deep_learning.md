@@ -33,6 +33,8 @@
 
 * !['dyngq_images'](images/dyngq_2019-09-17-17-00-43.png)
 
+#### 反向传播学习笔记
+
 * Q3_反向传播公式推导；
 * [CS231n课程笔记翻译：反向传播笔记](https://zhuanlan.zhihu.com/p/21407711)
 * [神经网络反向传播的数学原理](https://zhuanlan.zhihu.com/p/22473137)
