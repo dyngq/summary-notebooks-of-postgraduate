@@ -32,10 +32,11 @@
 ### 反向传播（一种用于计算梯度的算法）
 
 * !['dyngq_images'](images/dyngq_2019-09-17-17-00-43.png)
-* Q3_反向传播公式推导；
-* [神经网络BP反向传播算法原理和详细推导流程](https://blog.csdn.net/qq_32865355/article/details/80260212)
 
-#### 反向传播学习笔记
+* Q3_反向传播公式推导；
+* [CS231n课程笔记翻译：反向传播笔记](https://zhuanlan.zhihu.com/p/21407711)
+* [神经网络反向传播的数学原理](https://zhuanlan.zhihu.com/p/22473137)
+* [神经网络BP反向传播算法原理和详细推导流程](https://blog.csdn.net/qq_32865355/article/details/80260212)
 
 1. !['dyngq_images'](images/dyngq_2019-09-21-11-34-41.png)
 2. !['dyngq_images'](images/dyngq_2019-09-21-11-34-55.png)
