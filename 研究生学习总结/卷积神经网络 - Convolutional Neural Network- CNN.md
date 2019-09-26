@@ -1,17 +1,20 @@
 # 卷积神经网络 - Convolutional Neural Network- CNN
 
 #### 1.应用场景：
+
 * 卷积神经网络是用于计算机视觉任务的最佳机器学习模型。即使在非常小的数据集上也
 可以从头开始训练一个卷积神经网络，而且得到的结果还不错。
 * 用于图像分类问题。数据集肯定越大越好，但是CNN可以处理那些训练集较小的问题
 
 ##### 组成：卷积层 池化层
+
 * 它的人工神经元可以响应一部分覆盖范围内的周围单元，对于大型图像处理有出色表现。它包括卷积层和池化层。此外一般还有需要分类器，在预训练中一般会冻结卷积基（卷积+池化），通过调节训练分类器实现在小规模数据集上的训练精度提高。
 * 一般用最大池化层，原因在于特征中往往编码了某种模式或概念在特征图的不同位置是否存在（因此得名特征图），而观察不同特征的最大值而不是平均值能够给出更多的信息。
 * 卷积层不同点
     * 密集连接层和卷积层的根本区别在于， Dense 层从输入特征空间中学到的是全局模式，而卷积层学到的是局部模式。图像可以被分解为局部模式，如边缘、纹理等。
 
 #### 2.卷积神经网络具有两个有趣的性质
+
 * **平移不变性**
     * 卷积神经网络学到的模式具有平移不变性（translation invariant）。
     * 卷积神经网络在图像右下角学到某个模式之后，它可以在任何地方识别这个模式，比如左上角。
@@ -19,39 +22,43 @@
 * CNN可以学到**模式的空间层次结构**
     * 第一个卷积层将学习较小的局部模式（比如边缘），第二个卷积层将学习由第一层特征组成的更大的模式，以此类推。
     * 这使得卷积神经网络可以有效地学习越来越复杂、越来越抽象的视觉概念（因为**视觉世界从根本上具有空间层次结构**）。
-    * ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/01.png)
-    * ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/02.png)
-    
-    
+    * ![图 1.1](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/01.png)
+    * ![图 1.2](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/02.png)
 
 #### 3.特征图
+
 * 3D张量（高度宽度通道数）的卷积也叫特征图
 * 含义：深度轴的每个纬度都是一个特征（或者说是过滤器）
 * 卷积运算，输入特征图，从输入特征图中提取图块，并对所有这些图块应用相同的变换，生成输出特征图
 * 该输出特征图仍是一个 3D 张量，具有宽度和高度，其深度可以任意取值，因为输出深度是层的参数，深度轴的不同通道不再像 RGB 输入那样代表特定颜色，而是代表过滤器（filter）。过滤器对输入数据的某一方面进行编码。
 
 #### 4.卷积由两个关键参数所定义
+
 * 从输入中提取的图块尺寸,通常是 3×3 或 5×5.
 * 输出特征图的深度：卷积所计算的过滤器的数量。
 
 #### 5.卷积的工作原理
+
 * 在 3D 输入特征图上滑动（slide）这些 3×3 或 5×5 的窗口，在每个可能的位置停止并提取周围特征的 3D 图块［形状为 (window_height, window_width, input_depth) ］。
 * 然后每个3D 图块与学到的同一个权重矩阵［叫作卷积核（convolution kernel）］做张量积，转换成形状为 (output_depth,) 的 1D 向量。
 * 然后对所有这些向量进行空间重组，使其转换为形状为 (height, width, output_depth) 的 3D 输出特征图。
 * 输出特征图中的每个空间位置都对应于输入特征图中的相同位置（比如输出的右下角包含了输入右下角的信息）。
-![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/03.png)
-![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/04.png)
+![图 5.1](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/03.png)
+![图 5.2.1](images/dyngq_2019-09-26-15-18-59.png)
+![图 5.2.2](images/cnn.gif)
+![图 5.3](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/04.png)
 
 * 输出的宽度和高度可能与输入的宽度和高度不同。不同的原因可能有两点。
     * 边界效应，可以通过对输入特征图进行填充来抵消。
     * 使用了步幅（stride）。卷积步幅，步进卷积。
     * **Gif动图**说明。
     * 
-    ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/01.gif)
-    ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/02.gif)
-    ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/03.gif)
- 
+    ![图 5.4](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/01.gif)
+    ![图 5.5](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/02.gif)
+    ![图 5.6](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/03.gif)
+
 #### 6.最大池化
+
 * 在每个 MaxPooling2D 层之后，特征图的尺寸都会减半。
 * 最大池化的作用：对特征图进行下采样，与步进卷积类似。
 * 使用下采样的原因
@@ -59,14 +66,16 @@
     * 二是通过让连续卷积层的观察窗口越来越大（即窗口覆盖原始输入的比例越来越大），从而引入空间过滤器的层级结构。
 
 #### 7.1 在小型数据集上从头开始训练一个卷积神经网络
+
 * 数据集越大一般相对越好，只用几十个样本训练卷积神经网络就解决一个复杂问题是不可能的，但如果模型很小，并做了很好的正则化，同时任务非常简单，那么几百个样本可能就足够了。
 * 讨论猫狗图像分类，数据集中包含 4000 张猫和狗的图像（2000 张猫的图像，2000 张狗的图像）。我们将 2000 张图像用于训练，1000 张用于验证，1000张用于测试。
 * 模型
     * 可以看到：
     * 由于边界效应：每个卷积层之后，就减少两行两列
     * 由于最大池化，每个池化层之后，缩小为原来的一半
-    
-![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/05.png)
+
+![图 7.1](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/05.png)
+
 * 数据预处理
     * 读取图像文件。
     * 将 JPEG 文件解码为 RGB 像素网格。
@@ -78,68 +87,86 @@
 * 因为训练样本相对较少（2000 个），所以过拟合是最关心的问题。
 
 ### 解决过拟合
+
 #### 1.正则化
+
 *  dropout
 *  权重衰减（L2 正则化）
+
 #### 2.数据增强
+
 * 其方法是利用多种能够生成可信图像的随机变换来增加（augment）样本。
 * 其目标是，模型在训练时不会两次查看完全相同的图像。
 * 这让模型能够观察到数据的更多内容，从而具有更好的泛化能力。
 * 在 Keras 中，这可以通过对 ImageDataGenerator 实例读取的图像执行多次随机变换来实现
 * 需要注意的是，不能增强验证数据
-* ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/06.png)
+* ![图 2.2.1](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/06.png)
+
 #### 3.使用预训练的卷积神经网络
+
 * 预训练网络（pretrained network）是一个保存好的网络，之前已在大型数据集（通常是大规模图像分类任务）上训练好。如果这个原始数据集足够大且足够通用，那么预训练网络学到的特征的空间层次结构可以有效地作为视觉世界的通用模型，因此这些特征可用于各种不同的计算机视觉问题，即使这些新问题涉及的类别和原始任务完全不同。
 * 使用预训练网络有两种方法：特征提取（feature extraction）和微调模型（fine-tuning）。
+
 #### 3.1 特征提取
+
 * 对于卷积神经网络而言，特征提取就是取出之前训练好的网络的卷积基，在上面运行新数据，然后在输出上面训练一个新的分类器
 * 卷积基学到的表示可能更加通用，因此更适合重复使用。所以，仅重复使用卷积基，训练密集连接分类器。
-* ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/07.png)
+* ![图 3.3.1](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/07.png)
 * 特征提取有两种方法
     * 不使用数据增强的快速特征提取
         * 直接调用 conv_base 模型的 predict 方法来从这些图像中提取特征，将输出保存成硬盘中的 Numpy 数组，然后用这个数据作为输入，输入到独立的密集连接分类器中（注意要使用 dropout 正则化），计算量很小，计算代价低。
     * 使用数据增强的特征提取
         * 扩展 conv_base 模型，然后在输入数据上端到端地运行模型。
         * 新定义的模型不只有Dense层，也包括了conv_base模型，但是这个模型卷积基需要冻结（freeze），因为如果不冻结的话，那么卷积基之前学到的表示将会在训练过程中被修改。
+
 #### 3.2 微调模型
+
 * 对于用于特征提取的冻结的模型基，微调是指将其顶部的几层“解冻”，并将这解冻的几层和新增加的部分（本例中是全连接分类器）联合训练（见图 5-19）。之所以叫作微调，是因为它只是略微调整了所复用模型中更加抽象的表示，以便让这些表示与手头的问题更加相关。
 * 之所以只解冻微调模型底部的一小部分层，是因为：
     * 卷积基中更靠底部的层编码的是更加通用的可复用特征，而更靠顶部的层编码的是更专业化的特征。微调这些更专业化的特征更加有用，因为它们需要在你的新问题上改变用途。微调更靠底部的层，得到的回报会更少。
     * 训练的参数越多，过拟合的风险越大。卷积基有 1500 万个参数，所以在你的小型数据集上训练这么多参数是有风险的。
-![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/08.png)
+![图 3.3.2](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/08.png)
 
 #### 卷积神经网络的可视化
+
 虽然对于某些类型的深度学习模型来说，深度学习模型是“黑盒”，即模型学到的表示很难用人类可以理解的方式来提取和呈现。
 但对卷积神经网络来说绝对不是这样。卷积神经网络学到的表示非常适合可视化，很大程度上是因为它们是视觉概念的表示。
+
 * 可视化卷积神经网络的中间输出（中间激活）：有助于理解卷积神经网络连续的层如何
 对输入进行变换，也有助于初步了解卷积神经网络每个过滤器的含义。
 * 可视化卷积神经网络的过滤器：有助于精确理解卷积神经网络中每个过滤器容易接受的
 视觉模式或视觉概念。
 * 可视化图像中类激活的热力图：有助于理解图像的哪个部分被识别为属于某个类别，从
 而可以定位图像中的物体。
+
 #### 1.0
+
 ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/09.png)
 ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/10.png)
 ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/11.png)
+
 #### 2.0
+
 * 随着层数的加深，卷积神经网络中的过滤器变得越来越复杂，越来越精细。
 * 模型第一层（ block1_conv1 ）的过滤器对应简单的方向边缘和颜色（还有一些是彩色边缘）。
 * block2_conv1 层的过滤器对应边缘和颜色组合而成的简单纹理。
 * 更高层的过滤器类似于自然图像中的纹理：羽毛、眼睛、树叶等。
 ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/12.png)
 ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/13.png)
+
 #### 3.0
+
 ![](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/14.png)
 
-
-
-
-
 ## 参考资料
-1.《python深度学习》(《deep learning with python》(by Francois Chollet))
 
-2.秒懂各种深度CNN操作-机器学习算法与Python学习 https://mp.weixin.qq.com/s/N85gA350s-lS5p-Q-vgeRA
-  
+1. 《python深度学习》(《deep learning with python》(by Francois Chollet))
+
+2. [秒懂各种深度CNN操作-机器学习算法与Python学习](https://mp.weixin.qq.com/s/N85gA350s-lS5p-Q-vgeRA)
+
+3. [卷积神经网络（CNN）中卷积的实现](https://blog.csdn.net/ThorKing01/article/details/90482242)
+
+4. [CNN 理解神经网络中卷积(大小，通道数，深度)](https://www.cnblogs.com/hejunlin1992/p/8686838.html)
 
 
 

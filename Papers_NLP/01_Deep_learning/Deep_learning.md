@@ -1,6 +1,8 @@
 # DeepLearning
 
-## pre预备
+## 第一节 背景、监督学习、反向传播
+
+### pre预备
 
 * 前期知识储备
 !['dyngq_images'](images/dyngq_2019-09-14-15-52-12.png)
@@ -9,7 +11,7 @@
 * 学习时间分配
 !['dyngq_images'](images/dyngq_2019-09-14-16-08-45.png)
 
-## 深度学习背景介绍
+### 深度学习背景介绍
 
 * 传统机器学习需要专业领域专家进行特征抽取的设计，深度学习则不同，深度学习通过从数据中学习到的特征层进行特征抽取。
 * 背景
@@ -17,17 +19,17 @@
 * 背景
 !['dyngq_images'](images/dyngq_2019-09-14-16-15-19.png)
 
-## 深度学习基本结构
+### 深度学习基本结构
 
 * 基本结构
 !['dyngq_images'](images/dyngq_2019-09-14-16-31-14.png)
 
-## 深度学习应用领域
+### 深度学习应用领域
 
 * 应用领域
 !['dyngq_images'](images/dyngq_2019-09-14-16-31-48.png)
 
-## 监督学习
+### 监督学习
 
 * 训练步骤：
 !['dyngq_images'](images/dyngq_2019-09-14-16-36-04.png)
@@ -41,7 +43,7 @@
 * 反向传播
 !['dyngq_images'](images/dyngq_2019-09-17-17-00-43.png)
 
-#### 反向传播学习笔记
+### 反向传播学习笔记
 
 * Q3_反向传播公式推导；
 * [CS231n课程笔记翻译：反向传播笔记](https://zhuanlan.zhihu.com/p/21407711)
@@ -72,9 +74,10 @@
 * 来自@目光所及 同学
 !['dyngq_images'](images/dyngq_2019-09-23-16-15-31.png)
 
-## 第二节
+## 第二节 CNN、基于CNN的图像理解
 
 * !['dyngq_images'](images/dyngq_2019-09-23-16-26-17.png)
+* !['dyngq_images'](images/cnn.gif)
 
 ### 卷积神经网络基础
 
@@ -106,3 +109,18 @@
 !['dyngq_images'](images/dyngq_2019-09-23-17-26-56.png)
 2. @马健华
 !['dyngq_images'](images/dyngq_2019-09-23-17-28-19.png)
+
+## 第三节 分布式特征表示&语言处理、RNN、未来
+
+### 上节回顾
+
+* 回顾
+!['dyngq_images'](images/dyngq_2019-09-26-13-58-22.png)
+
+### 分布式特征表示
+
+### RNN
+
+### 展望
+
+### 总结
