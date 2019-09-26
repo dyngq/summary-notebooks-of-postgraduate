@@ -37,7 +37,7 @@
 * 从输入中提取的图块尺寸,通常是 3×3 或 5×5.
 * 输出特征图的深度：卷积所计算的过滤器的数量。
 
-#### 5.卷积的工作原理
+#### 5.1 卷积的工作原理
 
 * 在 3D 输入特征图上滑动（slide）这些 3×3 或 5×5 的窗口，在每个可能的位置停止并提取周围特征的 3D 图块［形状为 (window_height, window_width, input_depth) ］。
 * 然后每个3D 图块与学到的同一个权重矩阵［叫作卷积核（convolution kernel）］做张量积，转换成形状为 (output_depth,) 的 1D 向量。
@@ -56,6 +56,23 @@
     ![图 5.4](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/01.gif)
     ![图 5.5](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/02.gif)
     ![图 5.6](https://github.com/dyngq/notebooks/blob/master/images/cnn-20190422/03.gif)
+
+#### 5.2 添加非线性激活
+
+##### ReLU（修正线性单元）层
+
+* 在每个卷积层之后，通常会立即应用一个非线性层（或激活层）。其目的是给一个在卷积层中刚经过线性计算操作（只是数组元素依次（element wise）相乘与求和）的系统引入非线性特征。过去，人们用的是像双曲正切和 S 型函数这样的非线性方程，但研究者发现 ReLU 层效果好得多，因为神经网络能够在准确度不发生明显改变的情况下把训练速度提高很多（由于计算效率增加）。它同样能帮助减轻梯度消失的问题——由于梯度以指数方式在层中消失，导致网络较底层的训练速度非常慢。ReLU 层对输入内容的所有值都应用了函数 f(x) = max(0, x)。用基本术语来说，这一层把所有的负激活（negative activation）都变为零。这一层会增加模型乃至整个神经网络的非线性特征，而且不会影响卷积层的感受野。（参见 Geoffrey Hinton（即深度学习之父）的论文：Rectified Linear Units Improve Restricted Boltzmann Machines）
+!['dyngq_images'](images/dyngq_2019-09-26-16-06-35.png)
+* [此部分参考链接](https://www.cnblogs.com/luofeel/p/8654931.html)
+
+#### 5.3 感受野
+
+* 感受野
+* 常用一种特殊方法，如下图右边一列所示，卷积之后位置不变，空白部分进行填充的方法。
+* 而感受野就是右列的 以每一个实体位置为中心 对应的输入图的信息映射的包含的部分。
+!['dyngq_images'](images/dyngq_2019-09-26-16-08-55.png)
+!['dyngq_images'](images/dyngq_2019-09-26-16-28-59.png)
+* [参考链接,对CNN感受野一些理解](https://blog.csdn.net/u010725283/article/details/78593410)
 
 #### 6.最大池化
 
@@ -168,5 +185,6 @@
 
 4. [CNN 理解神经网络中卷积(大小，通道数，深度)](https://www.cnblogs.com/hejunlin1992/p/8686838.html)
 
+5. [CNN（卷积神经网络）是什么？有何入门简介或文章吗？ 机器之心](https://www.cnblogs.com/luofeel/p/8654931.html)
 
-
+6. [对CNN感受野一些理解](https://blog.csdn.net/u010725283/article/details/78593410)
