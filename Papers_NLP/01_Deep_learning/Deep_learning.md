@@ -117,7 +117,14 @@
 * 回顾
 !['dyngq_images'](images/dyngq_2019-09-26-13-58-22.png)
 
-### 分布式特征表示
+### 分布式特征表示 Distributed representations
+
+* 就是 特征 的一种表示方法，参数化，感觉下图就好比ONE-HOT
+* 增加稠密性
+* 分布式特征表示能发现**数据之间的语义相似性**
+!['dyngq_images'](images/dyngq_2019-09-26-20-29-41.png)
+* 深度学习两个巨大优势
+!['dyngq_images'](images/dyngq_2019-09-27-12-22-48.png)
 
 ### RNN
 
