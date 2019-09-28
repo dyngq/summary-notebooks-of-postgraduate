@@ -125,9 +125,38 @@
 !['dyngq_images'](images/dyngq_2019-09-26-20-29-41.png)
 * 深度学习两个巨大优势
 !['dyngq_images'](images/dyngq_2019-09-27-12-22-48.png)
+* Embedding
+!['dyngq_images'](images/dyngq_2019-09-28-17-33-25.png)
+!['dyngq_images'](images/dyngq_2019-09-28-17-33-11.png)
+* **Word2Vector**
+!['dyngq_images'](images/dyngq_2019-09-28-17-32-14.png)
+* N-grams
+!['dyngq_images'](images/dyngq_2019-09-28-17-32-29.png)
 
-### RNN
+### RNN Recurrent Neural Networks
+
+* 左图是实际的循环，右图是展开
+!['dyngq_images'](images/dyngq_2019-09-28-17-37-15.png)
+!['dyngq_images'](images/dyngq_2019-09-28-17-37-53.png)
+示例
+!['dyngq_images'](images/dyngq_2019-09-28-17-39-21.png)
+* LSTM
+!['dyngq_images'](images/dyngq_2019-09-28-17-40-09.png)
+* 双向RNN
+!['dyngq_images'](images/dyngq_2019-09-28-17-43-06.png)
 
 ### 展望
 
+1. 无监督学习
+!['dyngq_images'](images/dyngq_2019-09-28-17-43-27.png)
+!['dyngq_images'](images/dyngq_2019-09-28-17-44-44.png)
+2. 强化学习
+!['dyngq_images'](images/dyngq_2019-09-28-17-45-16.png)
+!['dyngq_images'](images/dyngq_2019-09-28-17-45-52.png)
+
+* 生成式对抗网络 GAN
+!['dyngq_images'](images/dyngq_2019-09-28-17-47-30.png)
+
 ### 总结
+
+> 努力理解深度学习的优势和局限性
