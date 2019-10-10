@@ -49,3 +49,7 @@ Embedding || CBOW，Skip-gram（word2vec）
 !['dyngq_images'](images/dyngq_2019-10-09-21-48-10.png)
 训练词向量
 !['dyngq_images'](images/dyngq_2019-10-09-21-49-38.png)
+
+## 精读论文
+
+!['dyngq_images'](images/dyngq_2019-10-10-11-40-46.png)
