@@ -87,7 +87,7 @@ NNLM神经网路语言模型（Nerual Network Language Model）
 !['dyngq_images'](images/dyngq_2019-10-11-20-04-05.png)
 !['dyngq_images'](images/dyngq_2019-10-11-20-54-48.png)
 
-* 具体过程：
+#### 具体过程
 
 1. 假设滑动窗口大小为 4。既：给定前面三个词 预测 第四个词会是谁出现的概率最大
 2. 输入为前三个词的one-hot，输出为第四个此的one-hot（第四个词已知，所以是监督学习，学习一个矩阵C）
@@ -97,8 +97,8 @@ NNLM神经网路语言模型（Nerual Network Language Model）
 6. 输出层采用全连接，有 100 * 10W(语料库词总数)条线。使用softmax结合U和D激活输出最后的概率，既第四个词为某个词的概率值（10W个全部的词语的所有概率）。（输出层）
 7. 反向传播更新 **矩阵C（最重要）**、H、B、U、D。
 
-BP(back propagation)神经网络，反向传播
-SGD（Stochastic gradient descent） 随机梯度下降
+* BP(back propagation)神经网络，反向传播
+* SGD（Stochastic gradient descent） 随机梯度下降
 
 !['dyngq_images'](images/dyngq_2019-10-11-21-46-44.png)
 
@@ -111,3 +111,8 @@ SGD（Stochastic gradient descent） 随机梯度下降
 [神经网络语言模型（NNLM）](https://www.jianshu.com/p/c28517cdfb3d)
 
 [神经网络语言建模系列之一：基础模型](https://www.jianshu.com/p/a02ea64d6459)
+
+计算复杂度：
+
+输入词语个数N、稠密词向量维度D、隐层节点数H、输出词表大小V
+!['dyngq_images'](images/dyngq_2019-10-12-10-52-28.png)
