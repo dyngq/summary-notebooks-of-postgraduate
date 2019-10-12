@@ -123,7 +123,7 @@ Embedding层一般可以选择：
 优点很多，不过不容易优化。
 !['dyngq_images'](images/dyngq_2019-10-12-11-47-30.png)
 
-#### 复杂度优化
+#### 缺点：计算复杂度太大
 
 论文提出分层softmax方法， 将输出优化到logV而不是数量在万级以上的One-Hot维度V
 !['dyngq_images'](images/dyngq_2019-10-12-11-50-17.png)
