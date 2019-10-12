@@ -74,14 +74,15 @@ Embedding层一般可以选择：
 论文结构
 !['dyngq_images'](images/dyngq_2019-10-10-20-50-11.png)
 
-NNLM神经网路语言模型（Nerual Network Language Model）
+### NNLM神经网路语言模型（Nerual Network Language Model）
+
 [神经网路语言模型(NNLM)的理解](https://blog.csdn.net/lilong117194/article/details/82018008)
 
 最大似然
 !['dyngq_images'](images/dyngq_2019-10-10-21-55-29.png)
 !['dyngq_images'](images/dyngq_2019-10-10-21-57-47.png)
 
-### 模型结构
+#### 模型结构
 
 !['dyngq_images'](images/dyngq_2019-10-11-11-26-55.png)
 !['dyngq_images'](images/dyngq_2019-10-11-20-04-05.png)
@@ -116,3 +117,15 @@ NNLM神经网路语言模型（Nerual Network Language Model）
 
 输入词语个数N、稠密词向量维度D、隐层节点数H、输出词表大小V
 !['dyngq_images'](images/dyngq_2019-10-12-10-52-28.png)
+
+#### RNNLM 循环神经网络语言模型
+
+优点很多，不过不容易优化。
+!['dyngq_images'](images/dyngq_2019-10-12-11-47-30.png)
+
+#### 复杂度优化
+
+论文提出分层softmax方法， 将输出优化到logV而不是数量在万级以上的One-Hot维度V
+!['dyngq_images'](images/dyngq_2019-10-12-11-50-17.png)
+
+!['dyngq_images'](images/dyngq_2019-10-12-11-52-02.png)
