@@ -1,5 +1,7 @@
 # Word2Vector
 
+> 任何一个词的One-Hot表示，乘以词向量矩阵，就会得到这个词的稠密词向量。
+
 !['dyngq_images'](images/dyngq_2019-10-09-16-47-42.png)
 
 ## 入门NLP课程
