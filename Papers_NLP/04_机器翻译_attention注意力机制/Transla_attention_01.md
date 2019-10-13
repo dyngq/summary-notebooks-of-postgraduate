@@ -11,9 +11,11 @@
 !['dyngq_images'](images/dyngq_2019-10-13-20-02-48.png)
 !['dyngq_images'](images/dyngq_2019-10-13-20-03-00.png)
 !['dyngq_images'](images/dyngq_2019-10-13-20-03-10.png)
+
+核心技术： **端到端 End-to-End** 包括：Encoder-Decoder模型、Sequence-to-Sequence模型
+
 !['dyngq_images'](images/dyngq_2019-10-13-20-03-23.png)
 
-相关技术
 !['dyngq_images'](images/dyngq_2019-10-13-20-03-52.png)
 !['dyngq_images'](images/dyngq_2019-10-13-20-04-42.png)
 !['dyngq_images'](images/dyngq_2019-10-13-20-04-53.png)
