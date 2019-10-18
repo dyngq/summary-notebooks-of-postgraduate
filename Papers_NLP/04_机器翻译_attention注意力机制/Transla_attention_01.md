@@ -41,3 +41,27 @@
 针对那样的缺点，引入注意力机制。
 !['dyngq_images'](images/dyngq_2019-10-13-20-05-26.png)
 !['dyngq_images'](images/dyngq_2019-10-13-20-05-47.png)
+
+## Core
+
+!['dyngq_images'](images/dyngq_2019-10-18-22-12-16.png)
+!['dyngq_images'](images/dyngq_2019-10-18-22-12-29.png)
+!['dyngq_images'](images/dyngq_2019-10-18-22-12-42.png)
+
+## Ci生成-注意力机制
+
+生成下一个单词时、哪一些单词对这个单词的生成是最有价值的。
+!['dyngq_images'](images/dyngq_2019-10-18-22-14-46.png)
+
+> 这个关于Ci和αi的作用的地方的理解出现过偏差，需要注意
+
+软对齐模型，用来衡量第j个源单词与目标端第i歌词的匹配程度
+传统的对齐模型需要源语言每个单词明确对齐到目标语言的一个或多个词，软对齐模型则不需要，并且可以融入到整个模型框架中反向传播求梯度。
+
+!['dyngq_images'](images/dyngq_2019-10-18-22-15-27.png)
+
+!['dyngq_images'](images/dyngq_2019-10-18-22-22-34.png)
+
+!['dyngq_images'](images/dyngq_2019-10-18-22-22-45.png)
+
+!['dyngq_images'](images/dyngq_2019-10-18-22-23-08.png)
