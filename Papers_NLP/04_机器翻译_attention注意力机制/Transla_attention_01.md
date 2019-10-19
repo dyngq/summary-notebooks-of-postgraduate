@@ -65,3 +65,5 @@
 !['dyngq_images'](images/dyngq_2019-10-18-22-22-45.png)
 
 !['dyngq_images'](images/dyngq_2019-10-18-22-23-08.png)
+
+[对齐模型参考论文：词语对齐的快速增量式训练方法研究](02.pdf)
