@@ -1,0 +1,11 @@
+TED_data文件里包含TED中英文翻译生数据
+en.vocab文件是生成好的英文字典
+zh.vocab文件是生成好的中文字典
+train.en是预处理过的英文数据集
+train.zh是预处理过的中文数据集
+data_vocab.py文件是生成数据词典文件
+data_train.py文件是数据预处理文件
+seq2seq_train.py是原始模型的训练文件
+seq2seq_test.py是原始模型的测试文件
+attention_train.py是改进模型的训练文件
+attention_test.py是改进模型的测试文件
