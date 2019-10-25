@@ -51,3 +51,5 @@ CNN 并行性较好、容易处理范围内邻近的数据，但是如果想要�
 4. **背景学习**
     1. Introduction
     2. Background
+
+## Transformer 论文精读
