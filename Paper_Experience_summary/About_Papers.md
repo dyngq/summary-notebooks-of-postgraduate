@@ -1,18 +1,4 @@
-# Transformer
-
-!['dyngq_images'](images/dyngq_2019-10-24-09-46-37.png)
-!['dyngq_images'](images/dyngq_2019-10-24-09-44-36.png)
-!['dyngq_images'](images/dyngq_2019-10-24-09-47-47.png)
-!['dyngq_images'](images/dyngq_2019-10-24-09-47-56.png)
-
-RNN 并行性不高 把所有信息压缩到一个向量，局部全局信息都不好
-!['dyngq_images'](images/dyngq_2019-10-24-10-50-36.png)
-
-CNN 并行性较好、容易处理范围内邻近的数据，但是如果想要处理长距离的以来的话就需要多层来实现了，因为每层的窗口大小有限，只能通过更上层来实现。
-!['dyngq_images'](images/dyngq_2019-10-24-10-50-46.png)
-
-!['dyngq_images'](images/dyngq_2019-10-24-11-04-31.png)
-!['dyngq_images'](images/dyngq_2019-10-24-11-08-32.png)
+# Papers_form
 
 ## **关于读论文** (**重要**)
 
@@ -51,3 +37,37 @@ CNN 并行性较好、容易处理范围内邻近的数据，但是如果想要�
 4. **背景学习**
     1. Introduction
     2. Background
+
+## 常用短语
+
+* **approach** 很常用！表示我提出的方法或者以前的解决办法。
+* **approach to**
+* **state-of-the-art** （adj. ）最先进的；已经发展的；达到最高水准的
+* **propose / be proposed recently by ...**
+    1. 用来说明自己提出的方法 we propose a novel architecture || We evaluate the proposed approach on the task of
+    2. 用来表示别人某时已经发表的 an RNN Encoder–Decoder which was proposed recently by Cho et al. (2014a)
+* **As clearly visible from Fig.2 ...**
+
+## 常用句式
+
+* ... **is a recently proposed approach to** ... 某个方法是最近刚刚提出的、用来解决某任务的
+
+## ABSTRACT  
+
+## 1 INTRODUCTION  
+
+## 2 BACKGROUND: NEURAL MACHINE TRANSLATION  
+
+## 3 LEARNING TO ALIGN AND TRANSLATE  
+
+## 4 EXPERIMENT SETTINGS  
+
+## 5 RESULTS  
+
+## 6 RELATED WORK  
+
+## 7 CONCLUSION  
+
+## ACKNOWLEDGMENTS  
+
+## REFERENCES
