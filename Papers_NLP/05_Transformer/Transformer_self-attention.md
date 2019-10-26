@@ -52,4 +52,12 @@ CNN 并行性较好、容易处理范围内邻近的数据，但是如果想要�
     1. Introduction
     2. Background
 
+!['dyngq_images'](images/dyngq_2019-10-26-15-04-17.png)
+
 ## Transformer 论文精读
+
+!['dyngq_images'](images/dyngq_2019-10-26-17-28-09.png)
+
+注意力权重函数
+!['dyngq_images'](images/dyngq_2019-10-26-17-32-19.png)
+!['dyngq_images'](images/dyngq_2019-10-26-17-39-19.png)
