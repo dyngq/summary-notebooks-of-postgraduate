@@ -1,0 +1,8 @@
+Telnet www.baidu.com 80
+
+ctrl + ]
+
+enter
+
+GET /index.html HTTP/1.1
+HOST:www.baidu.com
