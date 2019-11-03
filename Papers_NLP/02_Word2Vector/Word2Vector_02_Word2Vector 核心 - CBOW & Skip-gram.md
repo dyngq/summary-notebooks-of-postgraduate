@@ -86,7 +86,7 @@ Q： 为什么跳字模型明显好于连续词袋模型
 !['dyngq_images'](images/dyngq_2019-10-13-16-47-21.png)
 !['dyngq_images'](images/dyngq_2019-10-13-16-47-44.png)
 
-## JASON包
+## gensim包
 
 > 可以自动TF-IDF、word2vec训练等
 >
