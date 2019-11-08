@@ -50,10 +50,13 @@ English | 译文
 **Align ... to ...** | 将...与...对齐
 **... in case of the latter** | 后者...
 become **an integral part of** ... | 不可或缺的一部分
+**in conjunction with** | 与...协力/配合
 
 ## 常用句式
 
-* ... **is a recently proposed approach to** ... 某个方法是最近刚刚提出的、用来解决某任务的
+English | 译文
+:-: | :-:
+... **is a recently proposed approach to** | ... 某个方法是最近刚刚提出的、用来解决某任务的
 
 ## ABSTRACT  
 
