@@ -51,6 +51,7 @@ English | 译文
 **... in case of the latter** | 后者...
 become **an integral part of** ... | 不可或缺的一部分
 **in conjunction with** | 与...协力/配合
+**the ... follows this owerall architecture ...** | ... 遵循这种整体架构 ...
 
 ## 常用句式
 
