@@ -10,3 +10,5 @@
 * 文章多次提到转导模型
 
 !['dyngq_images'](images/dyngq_2019-11-17-15-23-17.png)
+
+!['dyngq_images'](images/dyngq_2019-11-17-16-25-29.png)
