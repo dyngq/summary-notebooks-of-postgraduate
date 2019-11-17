@@ -45,13 +45,15 @@ English | 译文
 **approach** | 很常用！表示我提出的方法或者以前的解决办法。
 **approach to** | 同上表示我提出的方法或者以前的解决办法。
 **state-of-the-art** | （adj. ）最先进的；已经发展的；达到最高水准的
-**propose / be proposed recently by ...** | 1. 用来说明自己提出的方法 we propose a novel architecture / We evaluate the proposed approach on the task of </br> 2. 用来表示别人某时已经发表的 an RNN Encoder–Decoder which was proposed recently by Cho et al. (2014a)
+**propose / be proposed recently by ...** | 1. 用来说明自己提出的方法</br> we propose a novel architecture </br> / We evaluate the proposed approach </br>on the task of </br> 2. 用来表示别人某时已经发表的</br> an RNN Encoder–Decoder which was proposed recently by Cho et al. (2014a)
 **As clearly visible from Fig.2 ...** | 从图2中可以清晰的看到
 **Align ... to ...** | 将...与...对齐
 **... in case of the latter** | 后者...
 become **an integral part of** ... | 不可或缺的一部分
 **in conjunction with** | 与...协力/配合
 **the ... follows this owerall architecture ...** | ... 遵循这种整体架构 ...
+**map ... to ...** | 将...映射到...
+**instead of ... , we found it beneficial to ...** | 相比于...来说，...更好
 
 ## 常用句式
 
