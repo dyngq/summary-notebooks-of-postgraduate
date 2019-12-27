@@ -61,22 +61,31 @@ English | 译文
 :-: | :-:
 ... **is a recently proposed approach to** | ... 某个方法是最近刚刚提出的、用来解决某任务的
 
-## ABSTRACT  
+## 关于复现论文
 
-## 1 INTRODUCTION  
+* 寻找资源
+* 配置环境
+* 运行结果
+* 分析代码
 
-## 2 BACKGROUND: NEURAL MACHINE TRANSLATION  
+### 1
 
-## 3 LEARNING TO ALIGN AND TRANSLATE  
+#### ABSTRACT  
 
-## 4 EXPERIMENT SETTINGS  
+#### 1 INTRODUCTION  
 
-## 5 RESULTS  
+#### 2 BACKGROUND: NEURAL MACHINE TRANSLATION  
 
-## 6 RELATED WORK  
+#### 3 LEARNING TO ALIGN AND TRANSLATE  
 
-## 7 CONCLUSION  
+#### 4 EXPERIMENT SETTINGS  
 
-## ACKNOWLEDGMENTS  
+#### 5 RESULTS  
 
-## REFERENCES
+#### 6 RELATED WORK  
+
+#### 7 CONCLUSION  
+
+#### ACKNOWLEDGMENTS  
+
+#### REFERENCES
