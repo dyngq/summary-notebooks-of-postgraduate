@@ -1,4 +1,4 @@
-# pytorch twn
+# pytorch
 
 1. log_softmax比softmax多计算一次log，意义在于 加快计算速度，数值上也更稳定。 参考资料：[PyTorch学习笔记——softmax和log_softmax的区别、CrossEntropyLoss() 与 NLLLoss() 的区别、log似然代价函数](https://blog.csdn.net/hao5335156/article/details/80607732)
 
@@ -9,3 +9,11 @@
 4. ？？？？ python 深拷贝、浅拷贝
 
 5. mean std(标准差) !['dyngq_images'](images/dyngq_2019-12-27-21-14-02.png)
+
+6. ？？？？ numpy.triu torch.from_numpy !['dyngq_images'](images/dyngq_2019-12-27-21-35-01.png)
+
+7. ？？？？ 负的维度的使用 !['dyngq_images'](images/dyngq_2019-12-27-21-36-24.png)
+
+8. ？？？？ torch.view .transpose
+
+9. ？？？？ 标签平滑 KL散度评价 !['dyngq_images'](images/dyngq_2019-12-27-21-48-40.png)

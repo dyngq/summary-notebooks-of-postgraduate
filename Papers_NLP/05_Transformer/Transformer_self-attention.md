@@ -1,5 +1,7 @@
 # Transformer
 
+> [哈佛nlp博客 代码讲义](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
 !['dyngq_images'](images/dyngq_2019-10-24-09-46-37.png)
 !['dyngq_images'](images/dyngq_2019-10-24-09-44-36.png)
 !['dyngq_images'](images/dyngq_2019-10-24-09-47-47.png)
