@@ -17,3 +17,5 @@
 8. ？？？？ torch.view .transpose
 
 9. ？？？？ 标签平滑 KL散度评价 !['dyngq_images'](images/dyngq_2019-12-27-21-48-40.png)
+
+10. !['dyngq_images'](images/dyngq_2019-12-28-11-25-48.png)
