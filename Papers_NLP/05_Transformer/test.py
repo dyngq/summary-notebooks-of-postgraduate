@@ -32,3 +32,32 @@ result = torch.empty(5, 3)
 torch.add(x, y, out=result)
 print(result)
 
+import numpy as np
+
+def find_sub_max(arr, n):
+    top_n = []
+    for i in range(n-1):
+        temp = np.argmax(arr)
+        top_n.append(temp)
+        arr_ = arr
+        arr_[np.argmax(arr_)] = np.min(arr)
+        arr = arr_
+    return top_n
+    
+def wh_in_list(arr,n):
+    return 0
+
+
+if __name__ == '__main__':
+    arr = [2, 3, 1, 7, 6, 5]
+    # arr_bk = arr.copy()
+    # res_top_n = find_sub_max(arr, 3)
+    # print(res_top_n)
+    # for i in res_top_n:
+    #     print(arr_bk[i])
+    a = 0
+    x = 1
+    while x in arr:
+        a = a + 1
+        x = x + 1
+        print(a, x)
