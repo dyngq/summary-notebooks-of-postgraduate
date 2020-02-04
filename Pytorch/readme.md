@@ -29,6 +29,7 @@ svd | 奇异值分解
 
 PyTorch中的Tensor支持超过一百种操作，包括转置、索引、切片、数学运算、线性代数、随机数等等，可参考[官方文档](https://pytorch.org/docs/stable/tensors.html)。
 
+## Ques
 
 1. log_softmax比softmax多计算一次log，意义在于 加快计算速度，数值上也更稳定。 参考资料：[PyTorch学习笔记——softmax和log_softmax的区别、CrossEntropyLoss() 与 NLLLoss() 的区别、log似然代价函数](https://blog.csdn.net/hao5335156/article/details/80607732)
 
