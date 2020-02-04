@@ -1,5 +1,9 @@
 # pytorch
 
+## Tips
+
+* Parameter类其实是Tensor的子类
+
 ## 产生分布的函数
 
 函数 | 功能
