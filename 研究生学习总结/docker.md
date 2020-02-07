@@ -53,6 +53,7 @@ docker commit -a "dyngq" -m "test" [容器名称或id] [打包的镜像名称]:[
 ### 其他一些常用参考链接
 
 * [菜鸟教程的docker教学](https://www.runoob.com/docker/docker-tutorial.html)
+* [docker如何部署您的第一个应用程序](https://www.optbbs.com/forum.php?mod=viewthread&ordertype=1&tid=8431044)
 * pass
 
 ## 天池
