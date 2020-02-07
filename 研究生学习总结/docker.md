@@ -62,6 +62,7 @@ docker commit -a "dyngq" -m "test" [容器名称或id] [打包的镜像名称]:[
 1. 创建阿里云的docker仓库
 2. pull拉取提供的python3镜像
 3. 启动镜像，在这个容器内安装numpy
+    ( pip install numpy -i [https://pypi.tuna.tsinghua.edu.cn/simple](https://pypi.tuna.tsinghua.edu.cn/simple))
 4. 将安装有numpy的容器打包成镜像
 5. 写好Dockerfile，写好sh和py
 6. push上去
