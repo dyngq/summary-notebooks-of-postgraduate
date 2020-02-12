@@ -68,6 +68,10 @@ English | 译文
 * 运行结果
 * 分析代码
 
+## Course
+
+!['dyngq_images'](images/dyngq_2020-02-10-18-40-33.png)
+
 ### 1
 
 #### ABSTRACT  
