@@ -1,0 +1,6549 @@
+1
+Do you need a hand?
+
+2
+Move in further.
+
+3
+Come. Come over here.
+
+4
+All right.
+
+5
+You need to buy a ticket.
+
+6
+Is there no discount?
+
+7
+Don't block my way.
+
+8
+Have you found it yet? Just pay for the ticket.
+还没找着啊？
+
+9
+Stop wasting my time. Can you check the others first?
+赶快补票吧 别费劲了
+
+10
+您能不能先查后面？
+
+11
+I will show you my ticket once I find it. No.
+我找着之后就给您看
+
+12
+Just give me a second.
+不行
+
+13
+I know, you won't find it.
+您让我再找一下
+
+14
+找什么啊？肯定找不着
+
+15
+I've seen plenty of people who act like they have lost their ticket.
+像你这样丢三落四 丢票的这种啊
+
+16
+我见多了
+
+17
+Just buy the ticket from me at its original price
+你这么着 我呢 给你补票 是吧？
+
+18
+or the officer will show up and issue you a fine.
+按原价补
+
+19
+别等会儿 乘警一来罚你款怎么办？
+
+20
+I still have to find my ticket regardless of who will show up.
+不是 您让谁来 我也得找到我的票啊
+
+21
+I bought the ticket. Let me find it.
+我买票了 来 乘警
+
+22
+Come to the eighth coach. Roger that.
+你来一趟8号来 你让我找一下
+
+23
+You Miss!
+好的 您让…
+
+24
+小姑娘
+
+25
+This ticket belongs to you, right?
+地上这票是你的吧？
+
+26
+I've boarded the plane.
+我登机了
+
+27
+I can deliver the signed contract on time.
+签好的合同我可以准时交过去 对
+
+28
+It's all good.
+挺顺利
+
+29
+Hello, sir. Welcome aboard.
+先生 你好
+
+30
+欢迎登机
+
+31
+Hello, ma'am. Please fasten your seatbelt. Thank you.
+女士 您好
+
+32
+请您系好安全带 谢谢
+
+33
+Here. Look at this. I bought the ticket. I really did.
+看 看见没有？
+
+34
+我买票了 我有票
+
+35
+Are you from Yaojiang, too?
+你也遥江的？
+
+36
+Could you help pass the noodle? The three of us are from Yaojiang.
+麻烦帮我传一下面
+
+37
+我们仨都遥江的
+
+38
+Thank you. We haven't seen you before.
+谢谢
+
+39
+没见过你啊
+
+40
+I have been out of town for years.
+哦
+
+41
+我都已经在外面混了好多年了
+
+42
+You all look like college students. The intellectual kind of students.
+看你们这样 大学生吧？
+
+43
+读书人
+
+44
+How old are you?
+你多大啦？
+
+45
+I'm 69 years old.
+
+
+46
+You look like you're 16.
+你16吧你？
+
+47
+I'm 22 years old, but I look younger.
+我22 我就是长得小 帮传一下
+
+48
+Pass the noodle.
+来 传一下面啊
+
+49
+Pass the noodle.
+传一下泡面
+
+50
+Hold on a second. I can teach you. Let me see.
+等一下啊 我教你 我帮你看看
+
+51
+My goodness.
+没有吧
+
+52
+You don't have it.
+
+53
+A pair of Threes.
+三带二
+
+54
+Who drank the soup of my noodle?
+谁他妈把我汤面变干面了？
+
+55
+He did. The one wearing glasses.
+他 这个戴眼镜的 唉唷
+
+56
+Shit! It's none of my business. I didn't drink any of it. You guys did.
+我去 关我什么事？
+
+57
+我又没喝 都你俩喝的
+
+58
+The one wearing glasses. Don't move! You fatso!
+这个戴眼镜的
+
+59
+趴着别动 谁让你胖
+
+60
+How did you get this scar?
+你这疤怎么弄的？
+
+61
+I fell when I was drunk.
+喝酒的时候摔的
+
+62
+It looks cool, right?
+帅吧？
+
+63
+Isn't it cool?
+帅不帅？
+
+64
+It is.
+帅
+
+65
+Ladies and gentlemen. We regret to inform you
+各位旅客
+
+66
+that due to the weather
+我们抱歉地通知您
+
+67
+we are not able to travel any further. For how long?
+由于天气原因
+
+68
+前方暂时无法通行 停多久啊？
+
+69
+We truly apologize for any inconveniences caused.
+由此带来的不便我们深感歉意
+
+70
+Hey, Qing, are you really going?
+清儿 真走啊？
+
+71
+I hate New Years.
+我最恨春节
+
+72
+Traveling back home every year is always a disaster.
+每年赶回家过年都跟逃难似的
+
+73
+The train is always crowded.
+火车上那么挤
+
+74
+Either I have to hold in my pee or I just can't drink anything at all.
+我都得憋着尿 要不我就不喝水
+
+75
+I think Beijing is pretty nice.
+我觉得北京挺好
+
+76
+Hey! At least I can focus on designing my game.
+至少可以看到我的游戏
+
+77
+But there's one problem.
+但有一点不好
+
+78
+When it rains or snows, the traffic would get so congested.
+他妈的下个雪、下个雨
+
+79
+That's right. Once, I had to work late
+都他妈交通堵塞
+
+80
+对 有一天天气预报说有暴雨
+
+81
+and the storm was pretty bad.
+那天刚好我回家晚
+
+82
+I lived at Fifth Ring Road.
+我们家那时候住五环
+
+83
+I had to walk from the Third Ring road because I couldn't get a cab.
+我从三环就开始走 一直都打不着车
+
+84
+I was so desperate.
+我都要走绝望的时候碰见一大哥
+
+85
+But I met a guy who was willing to give me a lift.
+愿意给我拉顺风车
+
+86
+You accepted a ride from a stranger at midnight?
+大半夜的 陌生人的你也敢上？
+
+87
+I was miserable.
+妈啊 我那凄凉的啊 就是鬼开的车我都上
+
+88
+I would've accepted the ride even if the driver were a ghost.
+
+89
+And then what happened?
+然后呢？
+
+90
+The driver is now my exboyfriend.
+然后呢 就成了我的前男友啦
+
+91
+What? Yeah.
+
+92
+Wow. You can drink really well.
+女生也喝二锅头啊？
+
+93
+Here. What for?
+给 咋的？
+
+94
+After all, we've survived this snowstorm together. Hold this.
+咱们也算是走过大风雪的生死之交 拿着
+
+95
+You are quite romantic. Just take it.
+你挺文艺啊
+
+96
+拿着啊
+
+97
+Come on. Okay.
+走 好
+
+98
+What's the purpose of this?
+这有啥用啊？
+
+99
+It's for you to hold on to. Okay.
+我牵着你啊
+
+100
+好嘞
+
+101
+Let's head back.
+我们回去啦
+
+102
+You should escort her. Okay.
+你送她 好
+
+103
+Hold on. Let's go.
+走了啊
+
+104
+Finally, we are almost there.
+终于快到了
+
+105
+I feel like I'm about to turn into a popsicle.
+我感觉我要冻成一个冰棍了
+
+106
+We have been informed by the Captain
+接到机长通知
+
+107
+that due to the weather in Beijing,
+由于北京天气原因
+
+108
+all flights for today have been canceled.
+今天的航班已被取消
+
+109
+Please prepare to disembark the plane soon,
+现在请带好全部手提物品准备下机
+
+110
+Please do not forget your belongings.
+下机前 请特别留意座椅周围
+
+111
+以免遗留物品
+
+112
+Let's walk together.
+一起走吧
+
+113
+Business class passengers, please come forward.
+后面有商务舱的旅客请往前
+
+114
+Business class passengers. Here.
+商务舱的旅客 这边
+
+115
+Room 521.
+521号房
+
+116
+Can you give us two separate rooms?
+麻烦您能给我两个房间吗？
+
+117
+But you only have one ticket.
+您这只有一张商务舱的票啊
+
+118
+But there are two of us here.
+我们是两个人
+
+119
+Are you friends?
+你们是朋友吗？
+
+120
+Do you even know each other?
+你们到底熟不熟啊？
+
+121
+Economy class passengers can line up over here.
+不然经济舱的乘客 您这边排队
+
+122
+We will try our best to accommodate you.
+我们尽量给你安排
+
+123
+房间不够用了吗？ 别耽误时间
+
+124
+Thank you.
+谢谢 快点
+
+125
+让给我们
+
+126
+Maybe I can go to the lobby
+要不我还是去那个大堂
+
+127
+and see if there is a couch that I can make do for a night.
+看看有没有什么沙发 将就一晚上
+
+128
+Are you afraid of me harassing you?
+怕我非礼你啊？
+
+129
+I'm afraid that I would harass you.
+我是怕我非礼你
+
+130
+You can get some sleep. I'm not sleepy.
+你睡吧 我不睡
+
+131
+It's been a while.
+好久不见
+
+132
+Every time...
+每次过年碰见你
+
+133
+Something bad is bound to happen whenever we meet during New Year.
+准没好事
+
+134
+Is that so?
+是吗？
+
+135
+Well...
+你说
+
+136
+We used to rush back home for New Year.
+这以前咱们都急急忙忙回老家过年
+
+137
+And now,
+现在
+
+138
+we are rushing to Beijing for New Year.
+急急忙忙回北京过年
+
+139
+Does Beijing make you feel like home?
+你觉得在北京有家的感觉吗？
+
+140
+Hey, Xiaoxiao. Didn't your mom come with you?
+小晓 你妈没跟你回来啊？
+
+141
+She's oversea, taking care of her pregnancy.
+我妈？我妈在国外安胎呢
+
+142
+She found herself a foreign husband.
+她找了个外国男人
+
+143
+Happy New Year! When will you marry and have a baby?
+小晓 你可回来了 叔叔、阿姨过年好
+
+144
+我说你还不结婚 赶紧生个孩子 阿姨 你看那小晓回来了
+
+145
+I already have three kids. Xiaoxiao.
+我跟我老公都生第三孩子了 你在北京过得怎么样啊？
+
+146
+Happy New Year! Xiaoxiao.
+阿姨过年好 小晓
+
+147
+I called you two days ago to change the gas pipe.
+前两天改煤气管道想找你呢
+
+148
+I couldn't reach you. I changed my number.
+你那电话也打不通啊 我换电话了
+
+149
+Xiaoxiao, you're back. Give me your address in Beijing.
+小晓 你回来啦？
+
+150
+你北京地址留一个
+
+151
+I'm getting married. Okay.
+我年底要结婚了 行
+
+152
+Xiaoxiao, you're back.
+小晓回来啦？
+
+153
+Happy New Year! Happy New Year!
+过年好 过年好
+
+154
+Happy New Year.
+过年好
+
+155
+Hello, Mom. Where are you?
+喂？妈
+
+156
+在哪呢？
+
+157
+I just got home. Did you get the stuff?
+刚到家 东西收到了吧？
+
+158
+When will you have a formal address in Beijing?
+你什么时候北京有个固定的地址？
+
+159
+It's troublesome to send you stuff without an address.
+老这么费劲吧啦的 给你寄东西也不是办法
+
+160
+No, I'm not home for chocolates.
+我不是 我不是回来吃巧克力的
+
+161
+I'm here to see Dad.
+我回来看我爸的
+
+162
+The New Year feast will be ready soon.
+一会儿就吃年夜饭了
+
+163
+I'm starving.
+饿
+
+164
+It's the same dish every year.
+每年就这几道菜
+
+165
+There's nothing new.
+也没点新鲜的
+
+166
+Where are the sticky bean buns?
+再说了 粘豆包呢？
+
+167
+It won't feel like New Year without it.
+没有粘豆包怎么算过年？
+
+168
+I always prepare them.
+什么时候少过你粘豆包啊？
+
+169
+Your high school teacher came over for dinner the other day.
+你那中学老师啊 前两天来家吃饭
+
+170
+He mentioned that his daughter is in the same grade as you.
+说他女儿 跟你是一级的
+
+171
+She is now studying in Beijing.
+在北京读
+
+172
+University of Political Science and Law. That's too far.
+政法大学
+
+173
+I don't want to have a longdistance relationship.
+太远了
+
+174
+我对异地恋没兴趣
+
+175
+It's only in Changping.
+昌平
+
+176
+Is it really that far?
+有那么远吗？
+
+177
+It's too far for me.
+不行
+
+178
+How about the one that your uncle introduced to you?
+那你舅舅给你介绍那朋友呢？
+
+179
+Stop worrying about me.
+你就别瞎操心了
+
+180
+You should worry about yourself. What are you talking about?
+你自己还没找明白呢
+
+181
+你自己找明白… 你说什么呢？
+
+182
+I'm telling you.
+我告诉你啊
+
+183
+You better come back here once you have graduated.
+毕了业就给我滚回来
+
+184
+There is no career in making video games.
+做游戏有什么出息？
+
+185
+A SPRING FILLED WITH HAPPINESS A YEAR FULL OF PROSPERITY
+
+186
+It's not working.
+
+187
+I couldn't light this one.
+
+188
+Yes, it went off.
+
+189
+One more.
+再点一个
+
+190
+This one works.
+这个 这个好
+
+191
+Are those shoes comfortable?
+鞋好走吗？
+
+192
+Not really, but the comfortable ones are so ugly.
+好走的都不好看
+
+193
+Goodness.
+
+194
+You need to clear the snow off your porch.
+你们家这门口不知道扫扫雪啊？
+
+195
+You do it. What?
+你扫啊
+
+196
+Hi, sir. Hey.
+叔叔好
+
+197
+That's my dad.
+你好 这我爸
+
+198
+Have you eaten? Yes, I have.
+吃了吗？ 吃了
+
+199
+You can always have more food on New Year's Eve.
+年夜饭哪有吃了的？再来吃点
+
+200
+GOOD FORTUNE
+来了
+
+201
+This is Lin's best dish.
+来 给我让一下
+
+202
+这可是老林的拿手菜
+
+203
+Here.
+你们先吃着 想老林的年夜饭想了一年了
+
+204
+This year, I've missed his cooking. Have some first.
+
+205
+This is the only picture I had with my mom.
+这是我跟我妈唯一的合照 老林 快点啊
+
+206
+Where are you? In her belly.
+你在哪啊？
+
+207
+肚子里面
+
+208
+Cheers. Come on.
+来
+
+209
+My wife went to Canada before New Year.
+我老伴啊上加拿大
+
+210
+I stayed home all by myself.
+就留我一个人在家待着
+
+211
+My daughter got married to a man from Chongqing.
+我女儿也嫁到了重庆
+
+212
+She won't be back until the second day of the New Year.
+初二才能回来过年呢
+
+213
+Xiaoxiao.
+小晓 你和见清在一起多久了？
+
+214
+How long have you been with Jianqing?
+
+215
+She is not my girlfriend. What?
+她不是我女朋友
+
+216
+Xiaoxiao.
+小晓
+
+217
+We've all been there.
+我们都是过来人
+
+218
+I just don't want you wasting time,
+是不想让你们走弯路
+
+219
+especially when it comes to finding your other half.
+尤其是要处对象的时候
+
+220
+You need to check their backgrounds,
+你要先摸清对方是什么背景
+
+221
+their origins,
+什么来路
+
+222
+and even trace their ancestry.
+要祖宗八辈地查
+
+223
+Especially
+尤其…你让我说完
+
+224
+Let me finish. I'm still talking. Don't interrupt me.
+我这说个话 你也拦着我 姨
+
+225
+If I have nowhere else to go the next New Year's Eve,
+明年除夕夜 我要是没地儿去
+
+226
+I will come here and drink with you all. That's great!
+我还要来陪叔叔阿姨们喝酒
+
+227
+Great!
+好 好 欢迎
+
+228
+You should come every year.
+年年来啊 好
+
+229
+Your dad is a great cook.
+你爸好手艺啊
+
+230
+I haven't had a good time during New Year for a long time.
+好久没有过过这么开心的年了
+
+231
+There's no one at your place.
+你们老家也没有人
+
+232
+Why did you go through all the trouble of coming back?
+你说你何必挤着春运回来呢？
+
+233
+I'm just finding a reason to spend time at home during New Year.
+其实就是找个回家过年的理由
+
+234
+My mom would not come back.
+我妈这人是不可能回来了
+
+235
+If I didn't come back, my dad would be left alone.
+我要是再不回来 就没人管我爸了
+
+236
+You know, you are not like most girls that I usually meet.
+你知道吗？ 你跟我见过所有的女孩都不太一样
+
+237
+You curse people.
+你会骂人
+
+238
+You know how to play cards and you drink well.
+会打牌
+
+239
+还会喝酒
+
+240
+What else do I not know?
+还有什么我不知道的？
+
+241
+Actually, there's quite a lot that you still don't know.
+其实我有好多
+
+242
+你都还不知道的
+
+243
+I told you that it'd be hard for you to walk in these shoes.
+我就说你这鞋不好走吧
+
+244
+Hey, let me help you.
+我扶你
+
+245
+Our neighborhood...
+你说咱们家这地儿
+
+246
+hasn't changed much after all these years.
+这么多年了 一点变化都没有
+
+247
+It's like time has stopped.
+就像时间停住了一样
+
+248
+Sometimes, I would think of my dad...
+有的时候我就想起我爸
+
+249
+because when my mom was pregnant with me,
+因为我妈怀我的时候
+
+250
+my dad came back to keep her company.
+我爸回老家陪我妈
+
+251
+So as a kid, I would always say to myself,
+所以小的时候我就想
+
+252
+I will definitely get out of here when I grow up and I'll go on my own path.
+等我长大了我一定会离开这里
+
+253
+我得去闯一闯
+
+254
+People say that, in Beijing, five years is enough
+他们说在北京待够五年
+
+255
+for you to walk your own path.
+就可以扎根了
+
+256
+How long have you stayed there?
+你待多少年了？
+
+257
+Does four years in college count?
+大学四年算吗？
+
+258
+Of course not.
+当然不算
+
+259
+So that means I haven't started.
+那我还没开始呢
+
+260
+Do you like Beijing?
+你喜欢北京吗？
+
+261
+I think I'm not going to make it.
+我感觉我都撑不住了
+
+262
+Nothing has really changed
+就跟我四年前刚来北京一样
+
+263
+since I first arrived four years ago.
+一点起色都没有
+
+264
+Come on. There is only one year left for you.
+别啊 你就差这一年
+
+265
+Aren't you afraid that you'll regret it later?
+你不怕你之后你老了你后悔啊？
+
+266
+If I had stayed for another year, I would have made it.
+你想说我再坚持一年 我就成功了呢
+
+267
+Is that so? Yes.
+是 是吧？
+
+268
+That's what I thought too. Hang in there.
+我就这么想的 坚持
+
+269
+It's a new year.
+新的一年 我要找一个好工作！
+
+270
+I want to get a better job.
+
+271
+The first wish I have this year
+我新年的第一个愿望
+
+272
+is to marry a local guy in Beijing.
+就是要嫁个北京人！
+
+273
+I will make it and come back home with honor.
+我一定会成功 衣锦还乡！
+
+274
+You silly!
+你傻啊
+
+275
+Why go back home if you've made it? Just stay in Beijing.
+都衣锦了还还什么乡啊？
+
+276
+You're so silly!
+留在北京
+
+277
+你才傻呢
+
+278
+Living in Beijing has always been a dream of mine.
+能在北京生活对我来说
+
+279
+一直是一个梦
+
+280
+There's always something new here,
+在北京 好像每天都能遇到新鲜事
+
+281
+someone interesting,
+遇上有趣的人
+
+282
+and all of your dreams can be fulfilled here.
+所有的梦想都能实现
+
+283
+Even though the salary might not be much,
+虽然挣的钱不多
+
+284
+and the air and water are not as clean as in our home,
+空气和水也没有家乡的好
+
+285
+I have to at least try.
+但是我得试过了
+
+286
+Or I won't be willing to return to a small city,
+才甘愿回到小城市
+
+287
+to marry someone,
+去过结婚生子、柴米油盐
+
+288
+have a family,
+平淡的下半生
+
+289
+Put it on my tab. and live an ordinary life.
+
+290
+I have to hang in there. Come in and take a look!
+我一定得坚持下去
+
+291
+Bring it on, Beijing!
+北京 谁怕谁？
+
+292
+Who would want to leave Beijing after graduation?
+毕了业 谁愿意离开北京？
+
+293
+Every time when I pass by Tiananmen,
+每次路过天安门的时候我就在想
+
+294
+I think about all the wonderful things that could happen here.
+所有最好、最神奇的事情
+
+295
+都会在这里发生
+
+296
+I know that Beijing is not my hometown.
+我明白北京不是我的家
+
+297
+I would rather embrace the fact that I might fail in life.
+我宁可拥抱现实中的无家可归
+
+298
+I wouldn't want to give up the chance to go all in.
+也不想放弃搏一把的机会
+
+299
+They say that the life here is hard, but I'm not afraid.
+都说这儿的生活艰难 但老子不怕
+
+300
+At least I've been to Beijing and have lived here.
+至少我在北京混过
+
+301
+A day in Beijing is really short.
+北京的一天真的很短
+
+302
+It seems like the day ends even before it begins.
+短到还没有开始就结束了
+
+303
+Every day when I wake up,
+所以每天早上一睁眼
+
+304
+I feel like my dream is turning into reality.
+我就觉得我离梦想又进了一步
+
+305
+喂
+
+306
+Is this seat taken?
+你们这儿有人坐吗？
+
+307
+Hi. Here are your cutleries.
+您好 您的碗筷
+
+308
+Let me introduce him.
+给大家介绍一下
+
+309
+He is my boyfriend.
+这个是我男朋友
+
+310
+His name is Yilong Sun.
+他叫孙艺龙
+
+311
+He has a PhD in Law.
+法学博士
+
+312
+He just got into the Institute of Geology, Earthquake Administration.
+刚刚考进咱们国家的那个地震局
+
+313
+PhD?
+博士 是吗？
+
+314
+Your job is to dig like a groundhog in that bureau, isn't it?
+地震局不就是个土行孙的活吗？ 是吧？
+
+315
+What do you mean by that?
+土行孙是什么啊？
+
+316
+Well...
+土行孙就是
+
+317
+You're a handsome groundhog. Just ignore them.
+相貌堂堂…
+
+318
+甭搭理他 甭搭理他们 一看就是搞土地的
+
+319
+Actually, my boyfriend is not that special.
+我男朋友其实
+
+320
+He is just a smalltime government officer.
+也没有什么能耐
+
+321
+就是一小小的公务员
+
+322
+He's managing the distribution of houses.
+在他们单位管这个房子分配
+
+323
+The house we bought is around 4,000 to 5,000 RMB per square meter.
+我们买房
+
+324
+顶多也就四、五千一平
+
+325
+It's not a big deal.
+没什么大不了的
+
+326
+What do you mean by that?
+也就四、五千一平？ 四、五千
+
+327
+Only 4,000 to 5,000 RMB?
+什么叫才四、五千？
+
+328
+Do you even have that much?
+四、五千你拿得出来啊？
+
+329
+Do you have it?
+你掏得出来吗？
+
+330
+Stop being sarcastic. Come on.
+别酸了 来
+
+331
+Let's finish our drinks. You drink like a man.
+有本事咱拿瓶干
+
+332
+My mom said girls shouldn't drink so much.
+咱大老爷们喝酒
+
+333
+我妈说了 女孩不能随便喝酒
+
+334
+It's bad for your health.
+喝酒对身体不好的
+
+335
+I can do it. Let me.
+我可以 我可以喝的
+
+336
+Congratulations.
+恭喜你啊
+
+337
+Xiaoxiao, you are becoming a Beijing local.
+小晓 就要快成北京人了
+
+338
+Cheers.
+喝一个
+
+339
+How did you know each other?
+怎么认识的？
+
+340
+From the internet.
+网上
+
+341
+We're virtual friends.
+网友
+
+342
+Isn't it cool?
+厉害吧？
+
+343
+Is it safe?
+靠谱吗？
+
+344
+How old is he?
+多大啊？
+
+345
+He's 27.
+
+
+346
+He's 27? Yes.
+
+
+347
+He could pass for your dad.
+说是你爸我都相信
+
+348
+What's wrong with you?
+你有毛病吗？
+
+349
+You just don't get it. That's because I look much younger.
+你咋啥也不懂呢？
+
+350
+是因为我长得小
+
+351
+Does he treat you well?
+他对你好吗？
+
+352
+Of course!
+你那不废话吗？
+
+353
+How exactly does he treat you?
+怎么个好法啊？
+
+354
+Picking stars for you from the sky? Bringing pearls to you from the ocean?
+能为你上九天揽月
+
+355
+Stars?
+下五洋捉鳖啊？
+
+356
+Pearls?
+上啥？
+
+357
+What?
+下去捉谁？
+
+358
+捉谁？
+
+359
+I mean, would he do anything for you and give you anything you want?
+就是为了你什么都肯干
+
+360
+什么都能给你
+
+361
+We are in the computer business. How can we work without electricity?
+我们搞电脑的
+
+362
+插座没电 我们怎么做生意啊？
+
+363
+Young man.
+年轻人
+
+364
+Have some sense in you.
+出来创业带着脑子好不好？
+
+365
+How will you make it if your brain is useless?
+不动脑子能做成事吗？
+
+366
+What did you say? Hey.
+我带什么脑子？
+
+367
+What are you doing? You better watch out!
+你干吗你？
+
+368
+Sheng.
+胜哥
+
+369
+Xiaoxiao.
+小晓
+
+370
+Hey. You look great today. You've got a date?
+今天穿这么漂亮
+
+371
+I'm meeting my boyfriend's parents.
+相亲去啊？
+
+372
+我去见家长
+
+373
+Sheng, these people are from my hometown.
+胜哥 这都是我的老乡们
+
+374
+It's hard to make a living here in Beijing.
+一起来北京打拼都特别不容易
+
+375
+Please help them if you can.
+麻烦您帮帮他们吧
+
+376
+Sure. Is it okay?
+好不好？ 行
+
+377
+Thanks to Xiaoxiao, I will arrange it in the afternoon.
+看在小晓的面子上
+
+378
+我下午安排人啊
+
+379
+Sheng, let's have drinks together.
+胜哥 我一会儿找你喝汽水
+
+380
+Sure. See you! Okay.
+好 再见啊
+
+381
+Your shoes are really pretty.
+好 你这鞋还真漂亮
+
+382
+That was great.
+还是你厉害
+
+383
+Now you know the power of these shoes.
+知道我这鞋的厉害了吧？
+
+384
+It's okay to be short. You should be more confident.
+矮就矮吧 这么不自信啊？
+
+385
+I'm not wearing them for you.
+你以为我为你穿的啊？
+
+386
+Well, look at you two fighting.
+这你一言我一句的啊
+
+387
+Do you have feelings for her?
+你是不是喜欢人家啊？
+
+388
+Hey.
+喂
+
+389
+Boys.
+那个
+
+390
+I need to tell you something.
+我有事儿跟你们说
+
+391
+My parents called me the other day.
+前几天我爸妈给我打电话
+
+392
+They got me a job as one of the officials in the county.
+他们在县里给我找了个公务员的工作
+
+393
+I have to leave tomorrow
+明天我要离开
+
+394
+The familiar places and you
+熟悉的地方和你
+
+395
+My tears came flowing down My tears came flowing down
+要分离 我眼泪就掉下去
+
+396
+Because of our separation Because of our separation
+
+397
+Hello?
+喂？
+
+398
+I will remember your face
+
+399
+Calm down. I will be right there.
+别着急 我马上过去
+
+400
+I will Okay.
+行
+
+401
+Cherish how you longed for me
+
+402
+I will keep Wen, I'm heading out.
+阿文 我出去一下
+
+403
+Those days Keep him company, okay?
+你送他
+
+404
+In my heart Go.
+去去
+
+405
+Until forever
+
+406
+What is in this? It's so heavy.
+你这里面装的什么啊？这么重
+
+407
+My shoes.
+我的鞋
+
+408
+These are all my things.
+还有我全部家当
+
+409
+FORTUNE, WEALTH, AND HAPPINESS
+
+410
+Goodness.
+
+411
+This room has everything.
+这个房间什么都有
+
+412
+You can turn on the fan if it gets hot.
+热了 咱们就开点电风扇
+
+413
+Why don't you ask me what happened?
+你怎么不问我怎么了？
+
+414
+You broke up.
+分手了吧
+
+415
+I did everything I could.
+我真是仁至义尽了
+
+416
+I even helped his mom put on her slippers.
+他妈来北京 我亲自给他妈换拖鞋
+
+417
+During dinner, she gave me attitude every time I took a bite.
+吃饭的时候 我吃口菜都得看他妈的脸色
+
+418
+She just wouldn't approve of us.
+关键他妈死活不同意我俩在一起
+
+419
+She said that I don't go to college so, we'd have trouble communicating.
+说我连大学都没有上过
+
+420
+And while she was saying all that stuff,
+以后交流肯定有问题
+
+421
+关键他妈说这些话的时候
+
+422
+he just sat there, and didn't even say a word.
+他坐旁边 一个屁都不敢放
+
+423
+Damn it.
+他妈的
+
+424
+It sounds like you are cursing them.
+听起来觉得你有点像骂人
+
+425
+Hell yes. I'm cursing them.
+我就是他妈的想骂人
+
+426
+I finally had a stable relationship.
+好不容易谈个靠谱的恋爱
+
+427
+Why did she have to ruin it?
+怎么就又他妈的出来搅局
+
+428
+Can you stop smoking? There's not much space here.
+你能别抽了吗？
+
+429
+I already feel horrible.
+这屋总共就这么大点地儿
+
+430
+我失恋已经够难受了
+
+431
+Are you trying to suffocate me?
+你想熏死我啊？
+
+432
+Thank you.
+谢谢合作
+
+433
+I don't want to judge you.
+不是我说你
+
+434
+But you only focus on things like PhD in law.
+你满脑子想的都是什么法学博士 福利房
+
+435
+Housing benefits.
+
+436
+Government officials. Can you mind
+公务员 能不能照顾一下失恋人的感受？
+
+437
+the feelings of a heartbroken person?
+
+438
+I won't get to live in a big house now.
+我住不上大房子了
+
+439
+So you are making fun of me.
+你幸灾乐祸 是吧？
+
+440
+College students.
+大学生
+
+441
+Can I have some of your beers? Sure.
+借你一个啤酒喝
+
+442
+哦
+
+443
+Is this your girlfriend?
+这你女朋友啊？
+
+444
+Yes, I am. Hello.
+对
+
+445
+我是 你好
+
+446
+What do you want for dinner? I will come by later.
+你晚上想吃什么？
+
+447
+I will still be here.
+我晚点过来
+
+448
+我晚点还在
+
+449
+Great.
+那好
+
+450
+I should get going.
+我走了
+
+451
+Listen to some music.
+听音乐
+
+452
+Would it help at all?
+这么大声 管用吗？
+
+453
+How to possess a rainbow?
+怎么去拥有一道彩虹？
+
+454
+How to embrace the summer breeze?
+怎么去拥抱一夏天的风？
+
+455
+Stars in the sky are laughing At the people below
+天上的星星 笑地上的人
+
+456
+Don't understand Don't feel satisfied
+总是不能懂 不能觉得足够
+
+457
+If I fall for your smile
+如果我爱上 你的笑容
+
+458
+How to cherish it...
+要怎么…
+
+459
+Do you have AutoCAD 2006?
+你这有那个AutoCAD 2006版吗？
+
+460
+AutoCAD?
+AutoCAD？
+
+461
+Let me check.
+我给你问问
+
+462
+Sir. You can go to kiosk No. 5014 upstairs.
+大哥
+
+463
+Go up that escalator.
+你去楼上的5014
+
+464
+坐那个扶手梯上去就到了
+
+465
+They have a better collection. You can try there.
+她们家比较全 应该有
+
+466
+Number 5014?
+
+
+467
+Yes. Thank you.
+谢谢啊
+
+468
+You can't even pay rent.
+都交不起房租了
+
+469
+Why did you sendoff your source of income?
+还往外送呢？
+
+470
+Xiaoxiao is one of our own.
+小晓不是也是自己人嘛
+
+471
+Hi.
+您好
+
+472
+The guy downstairs told me you might have this.
+听楼下说您这有那个
+
+473
+AutoCAD 2006, right?
+2006版的AutoCAD 是吧？
+
+474
+The guy from downstairs? Yes.
+楼下？
+
+475
+The 2006 one is last year's version. It's outdated.
+2006版是去年的了 老款
+
+476
+I want the outdated version. You really do have it.
+要的就是老款
+
+477
+给 还真有
+
+478
+Changyou Games.
+畅游
+
+479
+They keep asking if I want to work there.
+一直问我要不要去上班
+
+480
+I think bread and butter...
+我觉得
+
+481
+is more important than my dreams.
+吃饱了比梦想还重要
+
+482
+I should accept the job.
+我还是去吧
+
+483
+Come to me next time. We have everything.
+以后你就来这找我 我这儿全
+
+484
+We have the best collection in the whole area.
+整个电脑城属我们家最全
+
+485
+If you need anything, come find me.
+哥 你一会儿有什么需要就来我这
+
+486
+I will give you a special discount.
+我专门给你打折
+
+487
+We are moving today. Take care. Goodbye.
+我们今天搬走了
+
+488
+保重啊 再见
+
+489
+You're moving? Yes, I quit my job.
+怎么搬回来了？
+
+490
+对 不干了
+
+491
+Hey.
+哥们儿
+
+492
+Hey, you...
+你是不是挺懂电脑的啊？
+
+493
+You seem to know a lot about computers.
+
+494
+I...
+我这中毒了好像
+
+495
+I think my computer has a virus.
+
+496
+I'll help check it later.
+行 一会儿去帮你看一下
+
+497
+You can only reinstall the system now.
+你这只能重装试试了
+
+498
+What about my stuff on the hard drive?
+那我硬盘里这些东西…
+
+499
+I will only format the system's partition drive.
+你只要没在系统盘里就行
+
+500
+Who's your favorite?
+你都爱看谁的？
+
+501
+Aoi Sora.
+苍老师的
+
+502
+Maria Ozawa, Maria Tagaki, do you have them?
+小泽玛利亚、高树玛利亚 有吗？
+
+503
+I got Kaede Matsushima and Kaede Fuyutsuki.
+岂止？松岛枫、冬月枫
+
+504
+Ryoko Mitake.
+美竹凉子
+
+505
+Tokiwa Sakurako.
+常盘樱子
+
+506
+Takako Kitahara.
+北原多香子
+
+507
+Alice Ogura.
+小仓亚莉丝
+
+508
+You're a pro.
+专业啊
+
+509
+Sayaka Minami, Yuka Osawa, Sanada Haruka,
+南沙也香、大迟佑香、真田春香
+
+510
+Kyouka Ishiguro and Asuka Sawaguchi.
+石黑京香、泽口明日香
+
+511
+Ami Yamazaki.
+山崎亚美
+
+512
+Nami Kimura.
+木村那美
+
+513
+Emi Kitagawa.
+北川绘美
+
+514
+Manami Amamiya. Manami.
+天宫真奈美 真奈美
+
+515
+It's always nice to meet a comrade.
+自古宝剑酬知己
+
+516
+You can take this home and practice the moves.
+拿回去套套招
+
+517
+We are just friends.
+我俩就是普通朋友
+
+518
+Friends?
+朋友？
+
+519
+Hey, check out these collections. Any hot new games?
+看看碟吗 大哥？
+
+520
+Yes, I've got some.
+游戏有什么尖货吗？
+
+521
+This is a new beta version for testing.
+游戏有 这是一个新型的解密版的测试版
+
+522
+Interesting.
+挺有意思的
+
+523
+We even have online games and Dancin' Paradise.
+网游呢？ 劲舞团都有
+
+524
+Do you like World of Warcraft?
+那个 魔兽世界喜欢吗？
+
+525
+What's gotten into you? It looks great, right?
+受什么刺激了？
+
+526
+Ugly people do strange things.
+好看吗？
+
+527
+丑人多作怪
+
+528
+This one? I didn't put on the wig for you anyway.
+我也不是给你戴的反正
+
+529
+Here. It's lunch time. Your lunch box.
+给 放饭 盒饭
+
+530
+Who is it this time?
+又是谁啊？
+
+531
+The guy that bought AutoCAD from me. This can clean everything.
+就是上次到我店里买AutoCAD 那个男的啊
+
+532
+He's been taking a lot of orders lately. Come and take a look.
+他在我这已经订了好几个大单子了
+
+533
+He works in a state corporation.
+他是国企上班的
+
+534
+He will become the head of the division soon.
+他很快就要升处长了
+
+535
+He is an influential man and he is very nice to me.
+权力可大着呢 对我特别好
+
+536
+Is that so?
+是吗？
+
+537
+Has he already bought you a house?
+给你买房子啦？
+
+538
+He owns one, but I haven't been there yet.
+他有房子 但是我还没去过
+
+539
+So do you like him?
+你喜欢他？
+
+540
+Of course.
+当然了
+
+541
+He always gives me a sense of security.
+他总是给我一种特别舒服的安全感
+
+542
+So are you serious about this?
+所以你是认真的？
+
+543
+I have always been serious.
+我哪段不是认真的？
+
+544
+Sir, come to us if you want anything next time.
+大哥
+
+545
+你下次有什么想看的还来我们这
+
+546
+Help promote us. Sure.
+多为我们宣传宣传
+
+547
+Okay?
+好
+
+548
+He likes you with long hair. That's why you changed it.
+他喜欢你长头发 你就留长头发
+
+549
+What if he likes you bald?
+那他要是喜欢秃头呢？
+
+550
+Do you have the ones with Sora Aoi? Yes.
+苍老师的有吗？
+
+551
+有
+
+552
+Not only her. We also have many others.
+我们这不但有苍老师的 还有别的老师的
+
+553
+Sayaka Minami,
+南沙野香苍井、樱田道、泽日口
+
+554
+Sakurada Aoi, Asuka Sawaguchi.
+
+555
+We've got them all.
+都有 我们这特别全
+
+556
+We have special ways to get them.
+主要我们有门道 你知道吧？
+
+557
+You look so familiar.
+你看着怎么那么眼熟啊？
+
+558
+You kind of look like that...
+你长得好像有点像那个
+
+559
+Sakura something.
+什么樱来着？
+
+560
+What are you talking about?
+你说什么呢？
+
+561
+Get lost!
+滚蛋！ 怎么了？
+
+562
+Say that one more time... I said it.
+说什么呢？你再说一个试试 我说了怎么了？
+
+563
+我就说了 你再说一个
+
+564
+The inspectors are here!
+城管来了！
+
+565
+Get out of here!
+快走啊 城管来啦 不卖啦
+
+566
+Get out of here! The inspectors are here! Move it!
+
+567
+I can pay you.
+我给你钱
+
+568
+I'm going to move into my boyfriend's house.
+对啊 我过两天 就搬到我男朋友的大房子住去了
+
+569
+I only need the marriage certificate now.
+我就差一张结婚纸了
+
+570
+Relax, Mom. I'm doing pretty well here.
+放心吧 妈 我这边都特别好
+
+571
+Okay, bye.
+嗯 拜拜
+
+572
+Keep your eyes open.
+你眼睛擦亮点啊
+
+573
+There are a lot of liars here.
+现在的老男人骗子可多了
+
+574
+Don't get tricked by them.
+你小心让人给骗了
+
+575
+You are just jealous.
+你这就是赤裸裸的嫉妒
+
+576
+I get it.
+明白
+
+577
+All mothers will protect their kids.
+娘家人一般都护犊子
+
+578
+I'm jealous of you?
+我嫉妒你啊？
+
+579
+Girls get in line just so they can be with me.
+想跟我好的女生都排到张家口啦
+
+580
+Jealous, my ass.
+我嫉妒你
+
+581
+Do you mean the girls in your hard drive?
+你是说你电脑硬盘里的女的吧？
+
+582
+Did you use my computer?
+你偷看我电脑啊？
+
+583
+So you do have porn?
+真有啊？
+
+584
+Are you smoking again? No.
+你是不是又抽烟了？
+
+585
+Say it again. No.
+没有 你再说一个
+
+586
+没
+
+587
+Give me your hand.
+把手伸出来
+
+588
+The hand you use when you smoke.
+那只 你用这只手抽啊？
+
+589
+Hurry up and leave, so I can smoke freely.
+你赶紧走啊 走了我就能抽了
+
+590
+Sure, let it be the death of you. I'll keep smoking.
+你抽吧 抽死你
+
+591
+The more you smoke, the faster you die.
+就抽 早抽早超生
+
+592
+Sure, I will visit you even when I'm dead.
+就抽 做鬼都不会放过你
+
+593
+Your white hair looks nice after a while.
+你这少白头看时间长了还挺帅
+
+594
+Mom.
+娘家人
+
+595
+You worry about me a lot.
+你是担心我啊？
+
+596
+Are you falling for me?
+你是不是看上我了？
+
+597
+Do you really think you're pretty?
+你还真以为你自己是花朵啊？
+
+598
+Maybe a little. Sort of.
+有一点吧
+
+599
+Not at all.
+一点没有吗？ 可没有啊
+
+600
+Are you into me now? No.
+你是不是看上我了？ 没有
+
+601
+我的天啊
+
+602
+Hey! What the hell are you doing?
+干吗呢？
+
+603
+Are you crazy?
+你疯啦？
+
+604
+Are you crazy? Stop it! Don't hold back.
+干吗？你疯啦？你别叫 你别拦着我 哥
+
+605
+They can hear you. Let me scream!
+让人听见啦 你让我叫出来
+
+606
+Stop it. I can't take it!
+别叫 我受不了了
+
+607
+I can't take it!
+我受不了了
+
+608
+Stay away from me!
+让人听见了
+
+609
+Someone might hear you!
+
+610
+Stop screaming!
+我的天啊 别叫
+
+611
+If you don't scream,
+你这一声儿不叫
+
+612
+they might think you've passed out.
+你要不出声儿 人家以为你休克了
+
+613
+They might think you're weak.
+别人以为你虚了呢
+
+614
+Do as I say.
+跟着我来
+
+615
+我的天啊
+
+616
+I can't take it!
+受不了了
+
+617
+I can't take it!
+
+618
+A special discount! Buy five and get one for free.
+跨年优惠
+
+619
+买五送一
+
+620
+Come and have a look.
+看看碟吧 大哥
+
+621
+Come on. Smile.
+来 笑一个
+
+622
+What's wrong? No one to celebrate with?
+怎么着？跨年没人陪你啊？
+
+623
+My boyfriend got me a new number. It's our love hotline.
+这我男朋友给我办的新号
+
+624
+I will call you from over there. Let's try it.
+爱的热线
+
+625
+我那边去给你打个电话 你试试
+
+626
+Is it clear?
+这声音清晰吗？
+
+627
+No ordinary phone can compete with it.
+是不是一般二般的手机 都跟它比不了？
+
+628
+It's New Year's eve. Why is he not with you?
+今儿是跨年 他怎么不陪你啊？
+
+629
+He's the boss now. He has meetings to attend.
+人家是大领导 有好多应酬呢
+
+630
+Meetings on New Year's eve?
+谁跨年应酬啊？
+
+631
+He is not treating you well.
+他对你不好
+
+632
+Of course he is. Why wouldn't he be?
+他对我好 怎么可能对我不好啊？
+
+633
+Don't say that about him or I'll get upset.
+你要再这么说他 我跟你急
+
+634
+Giving you a cell phone doesn't exactly mean he's nice.
+送你手机不算对你好
+
+635
+You are really nosy.
+你管得真宽
+
+636
+Are the inspectors going to be here again?
+怎么？城管又来了？
+
+637
+Come on. Let's go celebrate.
+走 跨年去
+
+638
+He has a wife.
+原来他有老婆
+
+639
+I told you it's ugly.
+就说不好看吧
+
+640
+Come on.
+走吧
+
+641
+Here.
+来！
+
+642
+It's 20.
+
+643
+It's five. Drink up!
+5 喝酒
+
+644
+Fuck 2007!
+去他妈的2007
+
+645
+Fuck 2007!
+去他妈的2007
+
+646
+Fuck 2007!
+去他妈的2007
+
+647
+I think 2007 is for happy people.
+我觉得2007就是给幸福的人过的
+
+648
+The ones that are happy will be happier.
+幸福的人会越来越幸福
+
+649
+The ones that are miserable will be worse.
+悲惨的人会越来越悲惨 对吧？
+
+650
+No. Why not?
+不对
+
+651
+If two miserable people end up together,
+为什么不对？
+
+652
+两个悲惨的人在一起
+
+653
+they will be happy.
+就幸福啊
+
+654
+Just like my shoes.
+就像老子的鞋一样
+
+655
+It will keep getting better.
+越换越精彩
+
+656
+It'll keep getting tougher.
+越挫越勇
+
+657
+We are still young...
+咱们还年轻
+
+658
+and we are pretty smart.
+而且咱们这么聪明
+
+659
+We won't stay poor for long.
+穷只是暂时的
+
+660
+We will definitely make it in the end.
+我们一定会发达的
+
+661
+We will be so successful.
+我们一定会发达的
+
+662
+Well...
+那还要
+
+663
+How long is that going to take?
+再等多久呢？
+
+664
+Three years. I don't think so.
+三年 我不信
+
+665
+I don't think so.
+我不信
+
+666
+Three years at most.
+最多三年
+
+667
+I don't believe it.
+我不信
+
+668
+I will buy eight houses in Beijing.
+我要在北京买八套房子
+
+669
+I will give you one for free.
+到时候我送你一套
+
+670
+We can be neighbors.
+咱们做邻居
+
+671
+If you had so many houses,
+那那么多房子
+
+672
+it would be an issue to maintain them.
+打扫起来也是个问题
+
+673
+It's good to just look at them.
+我们就要放在那 看着
+
+674
+It would make me happy.
+高兴
+
+675
+I really think
+我真的觉得
+
+676
+what we have is quite nice.
+咱们这样挺好
+
+677
+Right? Yes.
+对吧？
+
+678
+It's just you and me now.
+现在就剩下你跟我了
+
+679
+Listen.
+你听
+
+680
+That's the countdown to the end of us being poor.
+咱们穷的日子已经开始倒计时了
+
+681
+The good life is just ahead of us.
+好的生活马上就来了
+
+682
+Five.
+五！
+
+683
+Four.
+四！ 三！
+
+684
+Three. Two.
+二！
+
+685
+One. Happy New Year!
+一！ 一！
+
+686
+新年快乐
+
+687
+Happy New Year!
+
+688
+Wait.
+等一下
+
+689
+Hey.
+喂？
+
+690
+What's wrong with you?
+你什么意思啊？
+
+691
+Leaving without saying a thing.
+你不打一声招呼你就走
+
+692
+I've been calling you all day, but you didn't answer.
+我给你打了一天电话你都不接
+
+693
+Do you think this is your shelter or a hotel?
+你当我们家是避难所 还是你的旅馆啊？
+
+694
+You can come and go as you want.
+你想来就来 你想走就走
+
+695
+What am I to you?
+你当我是什么啊？
+
+696
+Do you have any respect?
+你懂不懂得尊重人啊你？
+
+697
+Hey.
+喂？
+
+698
+Are you finished?
+你说完了吗？
+
+699
+Yes!
+说完了
+
+700
+Can we still be friends?
+那还能当朋友吗？
+
+701
+Did I really say that?
+我当时真这么说啊？
+
+702
+Remember the time you asked me if we could still be friends?
+你知道你那句“还能做朋友吗？”
+
+703
+Yes. That was really cold.
+杀人不见血
+
+704
+That was your first time, right?
+那是你第一次吧？
+
+705
+Did you forget?
+你别忘了啊 是谁先把谁的衣服给脱下来的啊？
+
+706
+You were the one who took your clothes off first.
+
+707
+I did. I quickly undressed myself.
+是我 利利索索先把自己衣服脱了
+
+708
+And then I undressed you.
+然后我帮着你脱
+
+709
+You were still unsure about it.
+你磨磨唧唧
+
+710
+You were all naked, but you had a sock on.
+最后都脱光了 还剩只袜子
+
+711
+I didn't take off my socks?
+我没脱袜子啊？
+
+712
+Yes. You were only wearing a sock.
+你全身上下就剩一只袜子
+
+713
+I thought that if I had sex with you
+我那会就觉得我把你给睡了
+
+714
+you would be with me forever.
+你就会跟我一辈子
+
+715
+I shouldn't have done it.
+早知道不睡了
+
+716
+You are really lucky.
+你真是挺幸运的
+
+717
+In your life,
+这一辈子
+
+718
+you get to score someone like me.
+能够睡一个像我这样的
+
+719
+But I came to regret it.
+但我就是后悔
+
+720
+Then I won't drink with you, bastard.
+那我不喝了 你这个二蛋
+
+721
+I actually enjoyed hearing you curse then.
+其实我那会还真挺喜欢你骂人的
+
+722
+Say it again.
+骂两句
+
+723
+Bastard.
+二蛋
+
+724
+Make it exciting.
+来点刺激的
+
+725
+Make it exciting?
+来点刺激的
+
+726
+Make it exciting.
+来点刺激的
+
+727
+Say something meaner.
+再来点狠的
+
+728
+Did you remember during that time
+你还记不记得你当时
+
+729
+whenever we were going to do it...
+每次咱俩要那个啥的时候
+
+730
+I'm coming.
+我来啦
+
+731
+You liked me doing that.
+你不就喜欢我这一出嘛
+
+732
+I had no idea what you were doing.
+我不知道你要干啥
+
+733
+After you took your clothes off...
+脱下来以后
+
+734
+Look.
+你看
+
+735
+I'm coming.
+我来啦
+
+736
+I'm coming.
+我来啦
+
+737
+You were acting like this.
+你当时就这样的
+
+738
+And you're still nagging.
+
+739
+Jianqing.
+见清
+
+740
+Jianqing.
+见清 我恋爱了
+
+741
+Jianqing, I'm in love.
+
+742
+I haven't seen you in a while. Jianqing doesn't live here anymore.
+好久不见 见清不在
+
+743
+Where did he go?
+他上哪去了？
+
+744
+He's in there.
+进去了
+
+745
+Where?
+进哪啦？
+
+746
+In there.
+进去了啊
+
+747
+What happened to him?
+他怎么啦？
+
+748
+Are you imitating me?
+你学我啊？
+
+749
+It is pretty normal in this business
+干我们这行 一年进去两三趟
+
+750
+to go in there a few times a year.
+要多正常有多正常
+
+751
+No visitors during custody. Please return.
+拘留期间不受理探访 回去吧
+
+752
+IN REPENTANCE, THERE IS SALVATION
+
+753
+Welcome to Beijing
+北京欢迎你 北京欢迎你
+
+754
+Dreams can make you great
+有梦想谁都了不起 有梦想谁都了不起
+
+755
+The courage can create miracles
+有勇气就会有奇迹 有勇气就会有奇迹
+
+756
+To Beijing! Yes, Beijing!
+好 好
+
+757
+敬北京 对 敬北京
+
+758
+If you ever go to Beijing,
+叔叔、阿姨 以后你们要去北京
+
+759
+remember to find me and Jianqing.
+一定要联系我和见清
+
+760
+You can stay at our place. It's a deal.
+住我们家 吃我们家 一定啊
+
+761
+Great! Thank you.
+好 好 谢谢
+
+762
+Xiaoxiao.
+小晓啊
+
+763
+Jianqing can't have a break on New Year?
+见清大过年的也不放假啊？
+
+764
+Well, it's the video game convention.
+就是他们这次电玩展
+
+765
+Many of his colleagues wanted to go,
+其实好多人都争破了头都要去
+
+766
+but his boss picked him.
+他老板独独就选了他
+
+767
+He really misses you all.
+他其实特别想叔叔、阿姨们
+
+768
+He went shopping for gifts very early and asked me to give them to you.
+他就买了好多礼物提前
+
+769
+让我一定带给你们
+
+770
+Uncle.
+叔叔 见清说你的那个皮带 那皮子都烂了
+
+771
+Jianqing said your belt has worn out.
+
+772
+See. He thought about you.
+你看看 惦着你呢
+
+773
+Uncle.
+叔叔
+
+774
+You two only come home once a year.
+你们一年才回来一次
+
+775
+If you didn't come, it would've been two years since you last saw your parents.
+今年要不回啊
+
+776
+那就两年见不着爹妈了
+
+777
+Jianqing calls Uncle pretty often.
+见清两天三头的就给叔叔打电话
+
+778
+Right, Uncle? Xiaoxiao.
+是吧 叔叔？
+
+779
+How long have you been together?
+小晓 你们在一起多久了？
+
+780
+It has been three to four months. I see.
+三、四个月了吧
+
+781
+So do you guys use protection?
+那平时避孕了吗？
+
+782
+Don't be shy.
+这有什么的啊？
+
+783
+My line of work is about family planning.
+我这不是管计划生育的嘛
+
+784
+Lin.
+老林啊
+
+785
+He is looking forward to hearing your good news
+就盼着你们赶紧回来请咱喝喜酒呢
+
+786
+and having a baby soon.
+最好就是能赶紧生个娃
+
+787
+Only then, New Year will be merrier, right?
+那过年才真有意思呢 是不是？
+
+788
+Bye, Aunt.
+阿姨慢走
+
+789
+Lin, I'm leaving.
+老林 我走了啊
+
+790
+I will come by tomorrow.
+我明天再过来
+
+791
+Is video gaming a serious job?
+游戏算正经行吗？
+
+792
+Don't get your hands dirty. Don't mind it.
+你不沾手了
+
+793
+别沾手了
+
+794
+When he was in eighth grade,
+他初中二年级的时候
+
+795
+I took him on a business trip to Beijing.
+我带他出差去北京
+
+796
+When we passed by Zhongguancun,
+路过中关村的时候啊
+
+797
+we saw a store selling authentic PC games.
+看见卖游戏的正版碟
+
+798
+Command and Conquer.
+《命令与征服》
+
+799
+It was really expensive. It was 160 RMB.
+太贵了 160块
+
+800
+Back then, my salary was less
+那时候我月工资
+
+801
+than 1,000 RMB a month.
+不到1000块
+
+802
+The next day, when I went to the bathroom,
+第二天我去厕所刷牙的时候
+
+803
+he locked me in the bathroom.
+他把门锁上了
+
+804
+I asked what he was doing.
+我说：“你干什么？”
+
+805
+He told me...
+他说：“你给我买张碟吧”
+
+806
+to buy the game.
+
+807
+I said I would beat the crap out of him.
+我说：“我揍死你”
+
+808
+He said that if I bought it for him,
+他说：“你要是给我买了
+
+809
+it would be okay to get beaten by me.
+揍死就揍死吧”
+
+810
+Then? I bought it.
+然后呢？
+
+811
+买啦
+
+812
+One time, he called me while he was drunk and said, "Thank you, Dad.
+有次喝了酒给我打电话 说：“爸爸谢谢你
+
+813
+I wouldn't know what I'd be doing now if you didn't buy that game for me."
+你要没给我买那张碟
+
+814
+我还不知道现在干什么呢”
+
+815
+So I was wondering.
+我就想
+
+816
+He is so obsessed with gaming.
+他这么迷恋这游戏
+
+817
+Did I contribute to it?
+是不是我害了他啊？
+
+818
+LIN'S RESTAURANT
+
+819
+Jianqing.
+见清
+
+820
+Is he all right?
+没事吧？
+
+821
+Yes, he is. I'll get going now.
+没事
+
+822
+叔叔 我走啦
+
+823
+IN REPENTANCE, THERE IS SALVATION
+
+824
+HAIDIAN PRISON, BEIJING
+
+825
+Bean buns? Sticky bean buns.
+豆包 粘豆包
+
+826
+You went to my place?
+你去我家啦？
+
+827
+Yes.
+对啊
+
+828
+I thought you might get caught,
+我就怕你穿帮嘛
+
+829
+so I pretended to be your girlfriend.
+我委屈求全装你女朋友
+
+830
+Are you crazy?
+你神经病啊你？
+
+831
+My girlfriend?
+谁让你装我女朋友啦？
+
+832
+Why are you being
+你这人怎么
+
+833
+such a dick?
+狼心狗肺啊？
+
+834
+Go away.
+走开
+
+835
+I have good news.
+跟你说个好消息
+
+836
+I met someone.
+我又搞对象了
+
+837
+Is he from Beijing?
+北京人吧？
+
+838
+No.
+不是
+
+839
+Does he have a house?
+有房子吧？
+
+840
+No.
+没有
+
+841
+I will answer all the questions for you.
+我都帮你一块问全了吧
+
+842
+Does he work in a state corporation or in an institution?
+他是国企的还是机关的？
+
+843
+Is he old?
+老不老？
+
+844
+The answer is no.
+都不是
+
+845
+The boyfriend I have this time...
+我这次交的这个男朋友吧
+
+846
+He...
+他
+
+847
+is rather young.
+挺年轻的
+
+848
+But he doesn't have a regular job. He looks decent.
+然后就是工作有点不稳定
+
+849
+长得还行
+
+850
+Are you crazy? So are you supporting him?
+你疯了啦你？那你养他啊？
+
+851
+My married exboyfriend came to my shop and yelled at me.
+那个有老婆的骗子 跑到我店里给我骂一顿
+
+852
+He said that you beat him up.
+说你把人狠狠揍了一顿 是吗？
+
+853
+No.
+没有
+
+854
+He came to buy some discs and I recognized him.
+他来买碟 就被我认出来
+
+855
+Would you...
+你愿不愿意为我
+
+856
+fly to the sky
+上九天 那啥
+
+857
+or what was it? Down the ocean?
+下九天捉鳖？
+
+858
+Pick the stars from the sky and bring pearls from the ocean.
+上九天揽月
+
+859
+下五洋捉鳖
+
+860
+Come on.
+不是
+
+861
+You know that I'm your best choice.
+像我这么优秀的 你知道的
+
+862
+You wouldn't find someone else like me if you missed the chance.
+过了这个村就没有这个店了
+
+863
+Come.
+走
+
+864
+Two fruit pancakes.
+两个煎饼果子
+
+865
+I will inspect your work.
+我检查检查你作业啊
+
+866
+Don't mess it up. I know.
+你别给我弄乱了 知道
+
+867
+These are the drafts of my game.
+这都是我游戏里的草稿
+
+868
+The boy in my game is called Ian.
+我这个游戏里的男孩就叫伊恩
+
+869
+The girl will be called Kelly.
+那女孩就叫凯莉吧
+
+870
+Can you explain why this world
+你说这世界上
+
+871
+has never had a story
+怎么从来没有一个故事
+
+872
+that is happy from the beginning to the end?
+是从开头到结尾 它都是幸福的呢？
+
+873
+Happiness is not a story.
+幸福不是故事
+
+874
+Misfortune is.
+不幸才是
+
+875
+Then I don't want to have a story with you.
+那我不想跟你之间发生什么故事了
+
+876
+Me neither.
+我也不想 等等
+
+877
+Wait! Let me ask you something.
+问你个事 我问你个事
+
+878
+What if in your game
+那如果在你这个游戏里面
+
+879
+the boy could never find the girl?
+那个男的 永远也找不着这个女的了怎么办？
+
+880
+If...
+如果
+
+881
+Ian could never find Kelly,
+伊恩再也找不到凯莉的话
+
+882
+then the world will be colorless.
+那这个世界就再也不会有色彩了
+
+883
+No.
+不可以
+
+884
+Give me your hand.
+把手拿过来
+
+885
+That one.
+那只
+
+886
+I need to smoke a few more.
+看来我还得再多补几根儿一会
+
+887
+Where are you, Daddy?
+爸比 你在哪里？
+
+888
+I'm at the hotel.
+爸爸在酒店呢
+
+889
+Can I look at the left side of the room?
+爸比 我要看左边
+
+890
+On my left?
+看左边
+
+891
+Here.
+看看吧 你房间里有没有车车？
+
+892
+Are there any cars in the room?
+
+893
+Now onto the right side, Daddy.
+爸比 我要看右边 看右边
+
+894
+There you go.
+快点
+
+895
+Hurry!
+
+896
+A little bit more to the right.
+再右边一点
+
+897
+There.
+看右边
+
+898
+Can you show me the entire room?
+爸比 转一圈
+
+899
+There you go.
+转一圈
+
+900
+Show me the top part of the room, Daddy.
+爸比 我要看上面
+
+901
+Hurry!
+快点
+
+902
+Can you see?
+看到了吗？
+
+903
+I want to look at the bathroom, Daddy. The bathroom?
+爸比 我要看厕所
+
+904
+看厕所
+
+905
+Hurry!
+快点 厕所
+
+906
+The bathroom.
+看厕所
+
+907
+I miss you so much, Daddy. You have a such weird habit.
+爸比 我好想你
+
+908
+什么习惯你这是？
+
+909
+Where is Mommy?
+妈妈呢？
+
+910
+When will you come home? Hey.
+你到底什么时候回来啊？
+
+911
+The nanny has gone back to her hometown.
+保姆都回老家了
+
+912
+I'm exhausted.
+我一个人累死了
+
+913
+I'll have to wait until the weather is clear.
+风雪小一点 我就能回去了
+
+914
+All right.
+
+915
+Are you cold?
+冷不冷？
+
+916
+Not really. What?
+不冷
+
+917
+No.
+不冷
+
+918
+Let's take a taxi.
+打个车吧
+
+919
+Let's wait for a while.
+再等一会儿吧
+
+920
+One taxi ride is worth two meals.
+打一回车能吃两顿饭呢
+
+921
+I want to find a new job.
+我想换份工作
+
+922
+All of a sudden?
+怎么突然想换工作了？
+
+923
+I can earn a lot in real estate.
+卖楼挣得多一点
+
+924
+Aren't you making a new game?
+而且你最近不是也要 研究自己的新游戏了吗？
+
+925
+It will take some load off of us.
+这样对咱俩来说可以减少点压力
+
+926
+Didn't you often say I'm good at making sales?
+你不是常说
+
+927
+我卖货比较在行吗？
+
+928
+Let's take a taxi.
+打车
+
+929
+Let's wait.
+等一会儿吧 来
+
+930
+Just wait a while.
+再等一会会儿
+
+931
+I won't be poor for long. Who knows maybe I will be rich tomorrow?
+我还能穷几天呢？
+
+932
+说不定明天我就发了呢
+
+933
+Taxi.
+打车
+
+934
+Beijing.
+北京！
+
+935
+Can you hear me?
+你听到了吗？
+
+936
+We will be rich soon.
+我们很快就要发了
+
+937
+We will be rich soon.
+我们很快就要发了
+
+938
+Beijing.
+北京
+
+939
+Can you hear me?
+你听到了吗？
+
+940
+Working is no longer just to make a living,
+出门工作不再只是为了过日子
+
+941
+but it is to watch her smile when I come home.
+也是为了回到家时 看见她开心
+
+942
+Everyone has a hard time living.
+生活谁不艰难？
+
+943
+I can handle the suffering for her.
+为了她
+
+944
+这点苦算得了什么？
+
+945
+Hello, my number is 1009.
+
+946
+Two people living in Beijing together
+漂在北京 两个人的生活
+
+947
+is better than being alone.
+比一个人好过得多
+
+948
+I will not only work for myself,
+拼命赚钱不只是为了自己
+
+949
+but for the both of us.
+而是为了我们
+
+950
+I'm in great pain. I'm feeling really uncomfortable.
+我特别疼
+
+951
+Get home soon.
+浑身难受
+
+952
+Get home soon.
+你快点回来
+
+953
+快点回来
+
+954
+Hey!
+
+955
+It's too big to fit.
+太大了 放不下
+
+956
+Come on.
+走
+
+957
+Don't you think we need our own couch?
+你不觉得咱们俩之间
+
+958
+还缺一个沙发吗？
+
+959
+Jianqing is not weak anymore.
+我们家见清不虚了
+
+960
+Jianqing is not weak anymore.
+小心点 我们家见清不虚了
+
+961
+Come here. Let's have some fun.
+过来 玩会儿 快过来
+
+962
+Quick.
+你试试 你来感受一下
+
+963
+You can try it. Feel it.
+
+964
+Let's have a baby.
+咱们生个孩子吧
+
+965
+I don't want children. I'm still living my life.
+我不要什么孩子 我还没玩够呢
+
+966
+I'm still young. I'm still a child. You can enjoy life and still have a baby.
+我还小呢 我还是小孩呢
+
+967
+一边玩一边生啊
+
+968
+Do you really want children?
+不是
+
+969
+你真想要个孩子啊？
+
+970
+I want you, children, and the whole world.
+要你 要孩子 我还要全世界呢
+
+971
+Well, we are so happy together now.
+你说
+
+972
+咱俩现在这么幸福
+
+973
+If we break up one day,
+万一有一天咱俩分手了
+
+974
+we should never meet again.
+咱们这辈子都别见面了
+
+975
+No way.
+那可不行
+
+976
+I have to see you.
+我还是得见你
+
+977
+I have to know how you're doing.
+我得知道你过得好不好啊
+
+978
+No. We've broken up.
+不是 咱俩都分手了
+
+979
+Do you really need to know?
+你有必要知道我过得好不好吗？
+
+980
+I just want to know. It's none of your business.
+我就是想知道 关你屁事
+
+981
+So would you want to see if I'm doing well or doing badly?
+那你是想知道我好
+
+982
+还是想知道我不好？
+
+983
+Tell me.
+
+984
+I would be sad if you were miserable.
+过得不好 我肯定会难过
+
+985
+If you were doing well,
+过得好吧
+
+986
+I would feel bad too.
+我也会难过
+
+987
+Maybe just be like me
+跟我过得差不多吧
+
+988
+or a bit worse than me.
+比我差一点就行
+
+989
+How can you say that?
+不是 你这人怎么这样啊？
+
+990
+You want your ex to do worse?
+你这人怎么希望你前任过得不好呢？
+
+991
+That's pretty selfish. No.
+你怎么那么自私啊？ 不是
+
+992
+Not at all. Think about it.
+不是啊
+
+993
+If I weren't the only person who made you happy,
+你想一想
+
+994
+让你快乐的那个人不是我
+
+995
+I would definitely be upset.
+我肯定不会开心
+
+996
+Right?
+是吧？
+
+997
+I wish time would stop now.
+我真希望时间就停在现在这
+
+998
+Right now.
+就永远停在这
+
+999
+Why did we break up?
+咱们为什么分手啊？
+
+1000
+It doesn't matter.
+不重要了
+
+1001
+What matters is that we can still see each other afterward.
+分手了还能见才重要
+
+1002
+So how are you doing now?
+说说你现在
+
+1003
+Soso.
+一般吧
+
+1004
+I sell whatever can be sold.
+卖什么能赚钱就卖点什么
+
+1005
+As for my love life or marriage,
+婚恋方面
+
+1006
+I've never met anyone worthwhile.
+一直就没有碰到个靠谱的
+
+1007
+I just broke up with one.
+这不刚分手一个
+
+1008
+A pseudoforeigner.
+假洋鬼子
+
+1009
+I even took English lessons for him for about a year.
+我还为他学了一年的英语
+
+1010
+I ran out of money, but he still scammed me.
+我都没钱了 他还骗我钱
+
+1011
+Did you really believe it?
+你不会真信了吧？
+
+1012
+I'm worry about you.
+我真是不放心你
+
+1013
+You would believe everything.
+啥你都信
+
+1014
+You really enjoy teasing me.
+捉弄我你就这么开心 是吧？
+
+1015
+And you would be glad if I were miserable?
+我过得不好 你也挺开心的吧？
+
+1016
+I just want to know how you've been.
+就是想知道你过得怎么样
+
+1017
+Actually, I got married.
+其实我结婚了
+
+1018
+I'm moving to America after New Year.
+过完年 我就要搬到美国去了
+
+1019
+We just bought a huge house in Beverly Hills.
+因为我俩刚刚在比佛利山庄
+
+1020
+买了一个大房子
+
+1021
+You are lying to me again.
+又骗我
+
+1022
+No, I'm not. Look.
+不是 你看
+
+1023
+I'm telling the truth and you don't believe me.
+我说真的你又不信
+
+1024
+I don't know which one is true
+我常常不知道你说的哪句是真的
+
+1025
+and which one is not.
+哪句是假的
+
+1026
+White lies.
+善意的谎言
+
+1027
+We both used it a lot.
+咱俩都没少说过
+
+1028
+Goodness. What?
+唉唷喂
+
+1029
+Did you rent this car?
+怎么着？ 您车是租的吧？
+
+1030
+What are you gloating about?
+嘚瑟个啥啊？
+
+1031
+You spent all your bonus on this, didn't you?
+整个年终奖全都放这车上了吧？
+
+1032
+I borrowed some money too.
+还借了点
+
+1033
+I spent it all on the roast duck.
+全买烤鸭了
+
+1034
+Mr. Roast Duck.
+烤鸭先生
+
+1035
+Hey, a toast to Jianqing from Beijing!
+来 敬北京回来的见清啊
+
+1036
+Hey!
+同学们
+
+1037
+Everyone gets to taste the roast duck.
+烤鸭人人有份
+
+1038
+It's a local specialty. I got it for you.
+带回来的特产
+
+1039
+Where are you working now?
+你现在在哪呢？
+
+1040
+I forgot my business card.
+我还真没带名片
+
+1041
+I work with WTC Skyline.
+我在世贸天际
+
+1042
+The company has 500 employees.
+他们公司五百人
+
+1043
+It goes on IPO this year
+今年刚上市
+
+1044
+and has a revenue of billions every year.
+每年净赚就得十多个亿
+
+1045
+Billions.
+十多个亿
+
+1046
+For 500 people.
+五百人分
+
+1047
+That's ten million each.
+一人一千多万呢
+
+1048
+Are you nuts?
+你是不是傻？
+
+1049
+The money goes to the owner.
+那十个多亿都是老板一个人的
+
+1050
+Why would he share it with 500 people?
+他还能五百个人分？
+
+1051
+That's also Jianqing's share.
+那不也是见清的嘛
+
+1052
+You should have your own business.
+以你的能力得单干
+
+1053
+His boss wouldn't let him go.
+他们老板就是舍不得放人
+
+1054
+That's quite a dilemma.
+你说这愁不愁人
+
+1055
+You should ask for Wen's help.
+你找阿文啊
+
+1056
+He said he's doing pretty well lately.
+他不是现在说混得特好嘛
+
+1057
+You can talk to him about it.
+你让他给你去说啊
+
+1058
+It's fine. Just call Wen directly.
+不用 你直接给他打啊
+
+1059
+No.
+别
+
+1060
+It's the New Year.
+大过年的
+
+1061
+I can talk to him myself.
+我自己跟他说啊
+
+1062
+Our classmate Huan Zheng
+各位
+
+1063
+is now the secretary of the county mayor
+咱们郑欢同学
+
+1064
+现在是县长秘书
+
+1065
+and owns the biggest house of us all.
+那房子是咱们所有同学里边最大的
+
+1066
+He has the best car too.
+车也是最好的
+
+1067
+What's the matter with Jianqing Lin?
+这林见清也是
+
+1068
+We grew up together. There's no need for him to pretend.
+都一起长大的 装什么大尾巴狼啊？
+
+1069
+We just don't want to say the truth.
+同学一场 大家是不好意思说破
+
+1070
+He's still renting somewhere in Beijing.
+在北京还不是照样租房子住
+
+1071
+Wait and see.
+你等着看吧
+
+1072
+When he needs to buy a house,
+将来买房、看病
+
+1073
+go to the doctors, or send his kids to school,
+孩子上学
+
+1074
+they will all cost him a fortune.
+哪一样不得扒他一层皮啊？
+
+1075
+Never mind.
+唉唷 算啦
+
+1076
+It's a matter of pride.
+人就活一张脸 回来多丢脸啊
+
+1077
+Friends supporting each other in life
+朋友一生一起走
+
+1078
+Those days are gone
+那些日子不再有
+
+1079
+A word of advice
+一句话
+
+1080
+For a lifetime
+一辈子
+
+1081
+Drink up! Come on!
+打一个 来 来
+
+1082
+It was so fun back in college.
+还是大学时候有意思 来
+
+1083
+Come on.
+
+1084
+Give it to me. Let me pay for it.
+给我
+
+1085
+We can pay for it
+我来买 我来
+
+1086
+Give it to me. We can pay for it.
+拿给我 我们来买就行
+
+1087
+It has to be me this time. Let us pay for it.
+今天必须我来 我们来买
+
+1088
+Give our old friend who came back from Beijing a chance this time.
+欢
+
+1089
+给我 今天就让我们北京回来的老同学来
+
+1090
+Don't.
+别了
+
+1091
+Hand it to me.
+给我
+
+1092
+Come on. I've got this.
+走 我来
+
+1093
+No.
+别
+
+1094
+It's fine. I've got it.
+行了 我付了
+
+1095
+Secretary Zheng has already paid.
+今天郑秘书买单
+
+1096
+We thank you for coming.
+本店招待老客户
+
+1097
+One day, when you get really rich,
+你说等到你有一天真的挣到了大钱
+
+1098
+remember to treat us to dinner.
+你再好好请同学们吃顿饭
+
+1099
+Okay?
+好不好？
+
+1100
+Don't drink too much if you can't handle it.
+你不能喝就别硬喝
+
+1101
+It's okay if you don't have money.
+没钱就没钱吧
+
+1102
+You don't need to act like you do.
+何必打肿脸充胖子
+
+1103
+Aren't you tired?
+你累不累啊？
+
+1104
+Yes.
+累
+
+1105
+I'm so tired of this place.
+就是因为这破地儿 我才这么累
+
+1106
+How will...
+我不装
+
+1107
+How will they look at me if I don't pretend?
+我不装别人怎么看我？
+
+1108
+I shouldn't come back here.
+我就不应该回来
+
+1109
+Let's go.
+走
+
+1110
+You can go with him.
+你跟他走吧
+
+1111
+Don't let him drive the car.
+等他酒醒了
+
+1112
+Not until he sobers up.
+再让他动车
+
+1113
+I'll make you something for your trip.
+我给你们做点吃的带上
+
+1114
+It's fine.
+没事啊
+
+1115
+It really is.
+真的没事
+
+1116
+Being rich, getting married,
+赚不赚钱、结不结婚
+
+1117
+and having a house were never your goals.
+买不买房从来都不是你的目标
+
+1118
+This is not the life you want.
+这不是你想要的生活
+
+1119
+Is this not the life you want?
+这不是你一直想要的生活吗？
+
+1120
+But we are together now.
+但是因为我们两个现在在一起了
+
+1121
+I don't think any of that matters.
+我觉得这些都无所谓了
+
+1122
+What do you mean when you say
+什么叫在一起之后
+
+1123
+none of it matters?
+你觉得无所谓了？
+
+1124
+Well,
+就是
+
+1125
+it just doesn't.
+就无所谓吧
+
+1126
+Why doesn't it matter anymore? Do you think I won't be able to make it?
+什么叫你觉得无所谓了？
+
+1127
+是不是因为你觉得我做不到？
+
+1128
+Whether you make it or not,
+你不管做不做的到
+
+1129
+it's not important to me.
+对我来说都不重要
+
+1130
+So you are saying that I can't make it. That is what you're saying.
+你不还是因为我做不到吗？
+
+1131
+I didn't say anything like that. That's what you meant.
+你是这个意思吧？
+
+1132
+我什么时候说过这句话啊？
+
+1133
+你就是这个意思
+
+1134
+Think whatever you want.
+不是 你爱怎么想怎么想
+
+1135
+I didn't mean it like that.
+反正我没说过这句话
+
+1136
+What exactly did you mean?
+那你什么意思？
+
+1137
+You have to figure out what you want.
+你得知道你到底自己想要什么
+
+1138
+What I want?
+我想要什么？
+
+1139
+I don't know what you want.
+我他妈哪知道你到底要什么啊？
+
+1140
+You have to know what you want.
+你得知道你自己想要什么
+
+1141
+It's not about what I want. And it turns into what you want too.
+不是因为我想要什么
+
+1142
+你他妈才想要什么
+
+1143
+Having a fight during New Year...
+大过年就吵架
+
+1144
+No wonder it turned out to be a rough year.
+果然这一年就过得不好
+
+1145
+I've been calling for two days.
+我都打了两天电话啦
+
+1146
+Stop talking nonsense. Give me a refund or just charge it...
+少扯淡 给我退钱
+
+1147
+Greetings, sir. How should I address you?
+要不你就给我刷上去
+
+1148
+先生你好 请问您怎么称呼？
+
+1149
+Address me? Do we share the same last name?
+称呼什么？
+
+1150
+Are you my dad or what? Sir, please calm down.
+你跟我姓吗？
+
+1151
+我叫你爸爸 你说话客气一点
+
+1152
+How much do you earn in a month?
+你一个臭客服 你一个月挣几个钱？
+
+1153
+You want me to be nice?
+你他妈让我跟你客气
+
+1154
+Why should I be nice to you?
+凭他妈什么跟你客气？
+
+1155
+I'm spending money here.
+老子他妈花钱了
+
+1156
+I'm cursing at you, you pathetic loser.
+我骂的就是你啊 臭土鳖！
+
+1157
+You think you can be a jerk just because you are rich?
+你他妈有点钱就装鳖 是吧？
+
+1158
+Get lost if you aren't going to pay. Suit yourself!
+不玩？不玩滚蛋！
+
+1159
+爱他妈玩不玩 靠！
+
+1160
+Excuse me.
+不好意思
+
+1161
+Where is the customer service department?
+请问一下客服部在什么地方？
+
+1162
+It's in there.
+里边
+
+1163
+May I ask?
+我想问一下
+
+1164
+Who is Number 1009?
+哪位是1009号客服？
+
+1165
+You called me a loser?
+你骂我土鳖
+
+1166
+The loser is here.
+你爸爸来了！
+
+1167
+Teach him a lesson.
+来 干他！
+
+1168
+It's just women. You should come working with me.
+你就跟着哥干两年 不就是女人嘛
+
+1169
+Girls will line up for you when you become rich.
+你有钱了还怕找不到妹子
+
+1170
+You wouldn't be able to shake them off.
+到时候排着队跟你好 撵都撵不走
+
+1171
+Why are you staring at them?
+你总看他们干吗？
+
+1172
+I'm just looking.
+我看看都不行啊？
+
+1173
+Are you drunk?
+是不是喝多了？
+
+1174
+Let's go home.
+咱回家吧
+
+1175
+Don't you know my nickname.
+我外号叫什么你不知道啊？
+
+1176
+What are you looking at?
+看什么啊 哥们？
+
+1177
+You had too much to drink.
+喝多了吧？
+
+1178
+Just ignore him. Let's ignore him.
+不理他 再喝点吧
+
+1179
+What's your problem?
+你他妈是不是有病啊？
+
+1180
+What's wrong with you?
+你跟我说你到底怎么了？
+
+1181
+Do you want to fight? Then punch me.
+你不是要打架吗？
+
+1182
+你打我吧？
+
+1183
+Do it.
+打
+
+1184
+Go ahead.
+打啊
+
+1185
+It won't be the same price once the subway has been built.
+如果要是开始建地铁的话
+
+1186
+The price will be doubled or tripled.
+至少得翻个两、三倍吧
+
+1187
+There is only one reserved.
+就这一户保留户
+
+1188
+Buying a semifinished house is cheaper.
+所以买毛坯房比较划算
+
+1189
+If the price and location are good for you,
+你看这个价钱和这个位置要都行的话
+
+1190
+don't hesitate to buy.
+你就别犹豫了
+
+1191
+I think the view here is good.
+我觉得这儿的景观的确还不错
+
+1192
+Can I hang it here? Yes.
+挂这行吗？
+
+1193
+可以
+
+1194
+Hey, are you going home for New Year?
+小伙子 过年回家吗？
+
+1195
+Yes.
+回
+
+1196
+Hi, Uncle. Hi.
+叔叔好
+
+1197
+你好
+
+1198
+Did you use my computer?
+你看我电脑啦？
+
+1199
+No.
+没有
+
+1200
+It kept making sounds.
+你电脑刚刚一直响
+
+1201
+So I took a look.
+我就看了一眼
+
+1202
+The night elf is just an internet friend.
+这个夜精灵女只是一个网友
+
+1203
+An internet friend?
+网友
+
+1204
+What are you two chatting about?
+你们都聊什么了啊？
+
+1205
+She's in the real estate business.
+她是做房地产的
+
+1206
+I thought if we were going to buy a house,
+我想到时候如果我们买房子的话
+
+1207
+it could be cheaper.
+还能便宜一点
+
+1208
+We should get a big house,
+买个大一点的
+
+1209
+so my dad can come live with us.
+到时候我爸也能住过来
+
+1210
+I'm an agent too. You can ask me.
+我一卖房子的 你不问我
+
+1211
+Why are you asking someone you don't know?
+你问一个八竿子打不着的人
+
+1212
+What's the matter with you?
+你什么意思啊？
+
+1213
+Hello.
+喂？
+
+1214
+I have a relative coming to stay.
+我跟你讲啊 我有亲戚要来住
+
+1215
+Clear the house immediately. Please move out by tomorrow.
+你们赶紧把这个房子腾出来
+
+1216
+明天就得搬走
+
+1217
+Driver, let's go.
+师傅 开车
+
+1218
+Hello, Uncle.
+喂？叔叔
+
+1219
+Hi, Xiaoxiao. How are you doing?
+小晓啊 你们好吗？
+
+1220
+Beijing has a lot of people during New Year.
+北京过年人多吧？
+
+1221
+Yes, it's flooded with people here.
+多 那人乌泱乌泱的
+
+1222
+Where's Jianqing?
+见清呢？
+
+1223
+He's not answering his phone.
+给他打电话没接
+
+1224
+Jianqing. Yes?
+见清啊
+
+1225
+Where will you be having dinner for Chinese New Year?
+那你在哪吃年夜饭呢？
+
+1226
+In Beijing.
+在北京啊
+
+1227
+Dad, you're so forgetful.
+爸 你糊涂啦？
+
+1228
+We are having hot pot.
+我们吃火锅呢？
+
+1229
+Barbecue.
+烧烤
+
+1230
+Roast duck. A lot of things.
+烤鸭都有
+
+1231
+We don't need sticky bean buns anymore. I've saved some for you.
+反正不用再吃你那个粘豆包了
+
+1232
+我还给你留着呢
+
+1233
+Stop worrying so much.
+你别瞎操心了
+
+1234
+There are many people in the house, right?
+家里人挺多的啊？
+
+1235
+Yes.
+多 今天都坐不下了
+
+1236
+There are not enough chairs for them.
+
+1237
+You don't need to worry about me.
+你们不用惦记我啊
+
+1238
+As long as you are doing well.
+挺好的就行
+
+1239
+Jianqing.
+见清啊
+
+1240
+That remote control.
+那个 那遥控器
+
+1241
+I told you a hundred times to check the batteries.
+我跟您说100次了
+
+1242
+你看看那个遥控器的电池还有没有电
+
+1243
+All right?
+
+1244
+I'm going to end the call now.
+行了 我不跟你说了啊
+
+1245
+Dad. Yes?
+爸
+
+1246
+Happy New Year.
+过年好
+
+1247
+Yes.
+
+1248
+Here. Drink up. Let's drink.
+来 喝酒
+
+1249
+The kids are not coming home?
+孩子回不来了？
+
+1250
+He is busy with work.
+他忙 他工作特别多
+
+1251
+Let's drink.
+咱们喝
+
+1252
+Happy New Year.
+来 过年好
+
+1253
+So you don't want to talk?
+你不打算说话了 是吧？
+
+1254
+I left some noodles for you.
+面我给你剩了一半
+
+1255
+After we break up,
+分手以后
+
+1256
+we should stop seeing each other.
+我们就不要再见面了
+
+1257
+Jianqing.
+见清
+
+1258
+I'm leaving.
+我走了啊
+
+1259
+If you didn't leave,
+如果当时你没走
+
+1260
+would it make any difference
+后来的我们
+
+1261
+to our relationship?
+会不会不一样？
+
+1262
+If at that time
+如果当时
+
+1263
+you had the courage to get on the train,
+你有勇气就上了地铁
+
+1264
+I would've stayed with you forever.
+我会跟你一辈子
+
+1265
+If you didn't break up with me...
+如果当时你没有跟我分手
+
+1266
+We would break up eventually.
+那我们之后也会分手
+
+1267
+If we had enough money,
+如果当时足够有钱
+
+1268
+we could live in a big house with a couch.
+我们住进一个有大沙发的大房子
+
+1269
+You would probably have ten affairs.
+你可能已经找了不下十个小三了
+
+1270
+What if we just went for it and got married?
+如果当时我们就是不管不顾
+
+1271
+我们就是结婚了呢？
+
+1272
+We would've been divorced for years.
+我们离婚好多年了
+
+1273
+What if you could stay to the end with me?
+如果你可以陪我坚持到最后呢？
+
+1274
+Then maybe you wouldn't make it.
+那也许你就不会成功
+
+1275
+What if we didn't leave for Beijing?
+如果我们没有离家去北京
+
+1276
+If there are no more ifs...
+如果没有如果
+
+1277
+We have everything in the end.
+后来的我们什么都有了
+
+1278
+Just not each other.
+却没有了我们
+
+1279
+Jianqing Lin.
+林见清
+
+1280
+You haven't gone back to Beijing?
+你还没回北京啊？
+
+1281
+Nice to meet you.
+你好
+
+1282
+What a coincidence.
+这么巧啊？
+
+1283
+Congratulations on the big order.
+恭喜你拿下个大单子啊
+
+1284
+Get some rest.
+好好放松放松
+
+1285
+Go to bed early.
+早点休息
+
+1286
+I don't want to go back to the room.
+我不想回房间了
+
+1287
+Fine.
+好
+
+1288
+Let's rent a car
+我们租车吧
+
+1289
+and drive back to Beijing.
+开车回北京
+
+1290
+It's too funny.
+太他妈搞笑了
+
+1291
+I could've been the wife.
+就是说本来我还可以当正宫
+
+1292
+But now I'm just the homewrecker.
+现在还被当成小三了
+
+1293
+It's a real bummer to have met you.
+遇见你我他妈是真倒霉啊
+
+1294
+The train has stopped. The plane has stopped.
+火车停开 飞机停飞
+
+1295
+Now the road is closed.
+现在连路都走不了了
+
+1296
+Can I be more unfortunate?
+我还能再遇见什么倒霉的事？你说
+
+1297
+What do you want anyway?
+你还想怎么样？
+
+1298
+If it wasn't for you,
+要不是因为你
+
+1299
+would I spend all those years in Beijing?
+我能在北京耗这么多年吗？
+
+1300
+I should
+我应该
+
+1301
+give you an award
+给你颁个奖
+
+1302
+for being the best exgirlfriend.
+最佳前女友
+
+1303
+Right. You should.
+对 你确实该颁给我
+
+1304
+Because my good fortune always bring luck to my exboyfriends.
+因为我这个人
+
+1305
+确实挺旺前男友的
+
+1306
+I remember my exboyfriend,
+我记得我前前前男友
+
+1307
+my previous exboyfriend
+前前前前前男友
+
+1308
+and another previous exboyfriend...
+前前前前前前男友
+
+1309
+To my knowledge, all my exboyfriends are doing pretty well.
+所有的前男友
+
+1310
+据我知道的 都过得他妈的挺好的
+
+1311
+And that is all because of me.
+就是因为跟我交往过
+
+1312
+I'm the kind of person
+所以我这个人
+
+1313
+who brings good fortune to my exboyfriends.
+就是挺旺前男友的
+
+1314
+Don't you find that very cool?
+我是不是特别帅这点？
+
+1315
+I find it very sad.
+我觉得你特别惨
+
+1316
+You are all alone.
+一个人无依无靠
+
+1317
+It's pretty miserable.
+挺惨的
+
+1318
+Then I think something's wrong with your values.
+那我真的觉得你的价值观出现了问题
+
+1319
+The reason I refused to leave Beijing...
+我以前为什么死都要活在北京？
+
+1320
+is that I felt...
+因为我觉得
+
+1321
+if we moved back to Yaojiang,
+如果生活在咱们的遥江镇
+
+1322
+I couldn't see my future easily.
+我一眼就看见我的未来了
+
+1323
+Well, you can see it now too.
+你现在也是啊
+
+1324
+You are married with children.
+你娶妻生子
+
+1325
+You live happily.
+生活幸福
+
+1326
+You have a job.
+有工作
+
+1327
+You lead a steady life.
+有稳定的生活
+
+1328
+You see your future very easily.
+一眼就看见未来了啊
+
+1329
+Right.
+对
+
+1330
+You're right.
+你说得对
+
+1331
+Jianqing.
+见清
+
+1332
+Jianqing.
+见清
+
+1333
+I miss you
+
+1334
+I miss you too.
+我也想你
+
+1335
+I mean...
+我是说
+
+1336
+I missed you.
+我错过你了
+
+1337
+I really feel like the past is right in front of us.
+我真觉得昨天就在眼前
+
+1338
+We are as childish as when we were young.
+我觉得我们现在就像小时候一样 特别幼稚
+
+1339
+You haven't grownup at all you know.
+你一点都没有长大 你知道吗？
+
+1340
+You haven't impressed me at all.
+你一点都没有让我刮目相看
+
+1341
+Do you know that?
+你知道吗？
+
+1342
+My deepest sorrow is I don't have the right to feel sorrow.
+我最大的悲哀就是
+
+1343
+我没有权利悲哀
+
+1344
+And I'm...
+而且我也没有
+
+1345
+in no position to do anything for you.
+我没有资格再为你做任何事情
+
+1346
+I don't have the right to.
+我没有资格
+
+1347
+Did you even love me?
+你爱过我吗？
+
+1348
+Did you?
+你爱过我吗？
+
+1349
+I have always loved you.
+我一直都爱你
+
+1350
+The breakup gave me a chance to breathe.
+分手好像给了我一个喘息的机会
+
+1351
+Staying in Beijing is like a gamble.
+拼在北京就像上了赌桌
+
+1352
+Don't lose it all. Only then you'll have a chance.
+没有输光就还能再来
+
+1353
+Although, living and not dying are completely different,
+没死跟活着是两回事
+
+1354
+I have to find a way to go all out.
+但我必须逼着自己去全力以赴
+
+1355
+SAY SORRY FOR ME IF YOU MEET KELLY
+
+1356
+What if in your game
+那如果在你这个游戏里面
+
+1357
+the boy can never find the girl?
+那个男的 永远也找不着这个女的了怎么办？
+
+1358
+If Ian could never find Kelly,
+伊恩再也找不到凯莉的话
+
+1359
+then the world will be colorless.
+那这个世界就再也不会有色彩了
+
+1360
+UPLOADING
+
+1361
+UPLOADED
+
+1362
+SAY SORRY TO KELLY FOR ME IF YOU MEET HER
+
+1363
+I'M SORRY
+
+1364
+NO WORDS CAN DESCRIBE HOW SORRY I FEEL
+
+1365
+SEEING THINGS FROM YOUR PERSPECTIVE SADDENS ME
+
+1366
+HOW SHOULD I MAKE IT UP TO YOU?
+
+1367
+Welcome to our team.
+欢迎加入我们的团队
+
+1368
+The number of online players that left sorry notes in the game
+光是在游戏下面留言说对不起的
+
+1369
+在线累计人数
+
+1370
+have just passed 2 million.
+刚刚已经超过两百万人
+
+1371
+On behalf of the players,
+我开玩笑地问一句
+
+1372
+I would like to ask, would you like to apologize to anyone?
+你有最想说对不起的人吗？
+
+1373
+Of course.
+当然
+
+1374
+I had my doubts when I first came to Beijing.
+刚从老家来北京的时候谁没怀疑过
+
+1375
+Wondering about my future...
+谁没犹豫过自己的明天
+
+1376
+Only her.
+只有她
+
+1377
+She was the only one who believed in me.
+只有她一直相信我可以做到
+
+1378
+I remembered that the elevator was broken one day
+我记得有一天我们家电梯坏了
+
+1379
+and we could only climb the stairs to get to our room.
+我们只能爬楼梯
+
+1380
+I said,
+我说
+
+1381
+"Let's tell a story.
+我们讲一个故事吧
+
+1382
+Because only an interesting story
+因为只有一个有趣的故事
+
+1383
+can help us climb faster."
+才能让那个楼梯爬起来更快一点
+
+1384
+A boy called Ian
+从前有一个叫伊恩的小男孩
+
+1385
+was separated from his friend named Kelly...
+他跟好朋友凯莉走散了
+
+1386
+He thought she was abducted by aliens.
+他觉得凯莉是被外星人给抓走的
+
+1387
+Because she was not with him.
+所以才不在他的身边
+
+1388
+He wandered around different planets to find Kelly.
+他在各个星球流浪 寻找凯莉
+
+1389
+On his search mission,
+他在寻找的过程当中
+
+1390
+he had gone through all sorts of difficulties.
+也是遇到了种种难关
+
+1391
+A meteor collided, a black hole opened, and bats attacked him.
+陨石相撞、黑洞开启、蝙蝠袭击
+
+1392
+There's a stairway that leads to heaven,
+还有一个通往天堂
+
+1393
+but it never seems to end.
+但怎么走都走不完的楼梯
+
+1394
+He needs to find the key to it. Find the key fast.
+他必须找到通往天堂的钥匙
+
+1395
+你赶紧把钥匙给我找出来
+
+1396
+I can't climb anymore.
+我实在是爬不动了
+
+1397
+Kelly needs to stay close to Ian.
+凯莉得好好跟着伊恩
+
+1398
+Ian needs to hold Kelly tight.
+那伊恩得抓紧凯莉
+
+1399
+So they don't get separated.
+千万别走散了
+
+1400
+As long as Ian and Kelly are together,
+只要伊恩和凯莉在一起
+
+1401
+they can travel fearlessly to all planets.
+他们就能勇闯星球 什么都不怕
+
+1402
+This is the beginning of my game.
+这就是我这个游戏的开始
+
+1403
+Here is the living room.
+这里是客厅
+
+1404
+You can have dinner here with family and friends.
+到时候 您跟家人朋友一块在这用餐
+
+1405
+It would be very warm and cozy.
+是一件特别温馨的事情
+
+1406
+The price of this location right here
+我们的房子现在这个地段
+
+1407
+will doubled
+等到时候地铁建起来了
+
+1408
+when the subway is ready.
+将会有一倍的升值
+
+1409
+And in about ten years later,
+大约再过十年
+
+1410
+the price will be the same as the houses in New York.
+房价就能跟纽约持平了
+
+1411
+Then, you living in Beijing feels just like living in America.
+到时候 您在北京住着
+
+1412
+就像在美国住着一样
+
+1413
+You, your wife and children
+您和您的夫人和孩子
+
+1414
+will have a wonderful time here.
+在这里共享天伦之乐
+
+1415
+Actually, the happiest thing in life
+其实有钱、有房
+
+1416
+is not having money or a house but providing a home for your family.
+能给家人一个家
+
+1417
+才是最幸福的事
+
+1418
+Here is the balcony.
+这里是阳台
+
+1419
+Location is really important.
+买房子位置很重要
+
+1420
+The construction and real estate company
+品牌开发商、物业公司
+
+1421
+can tell you the class of the complex.
+都能体现出一个小区的高档
+
+1422
+There are many good spots around the complex.
+小区周围都是大环境配套
+
+1423
+Bye.
+走啦
+
+1424
+Bye.
+再见
+
+1425
+JIANQING: ARE YOU GOING BACK HOME THIS YEAR?
+
+1426
+JIANQING: HOW HAVE YOU BEEN DOING?
+
+1427
+JIANQING: SHOULD WE GO BACK TOGETHER?
+
+1428
+MY DAD ALWAYS ASKS ABOUT YOU
+
+1429
+I COULDN'T TELL HIM THAT WE BROKE UP
+
+1430
+You don't have to look at these.
+你不用看下边这些
+
+1431
+Just memorize it. Look.
+你就记住啊 你看
+
+1432
+For the channels...
+频道
+
+1433
+The is the HDMI button.
+是吧？这个是高清晰度多媒体接口的
+
+1434
+This is for cable TV.
+这个是有线
+
+1435
+See. There are more channels.
+你没发现台多了
+
+1436
+This is the volume button.
+还有这是音量
+
+1437
+You can try it.
+你试一下
+
+1438
+It is on, right?
+这不是开了吗？
+
+1439
+Closer. Get closer.
+近点 离近点
+
+1440
+You can give it another try.
+你再自己试一下
+
+1441
+Press this.
+按这个
+
+1442
+I'll teach him.
+我教叔叔吧
+
+1443
+Why did I turn it off?
+怎么让我关上了？
+
+1444
+It's on.
+开开了
+
+1445
+Look, Uncle.
+叔叔 您看
+
+1446
+Never mind. Just press this button.
+啥事儿 不管啥事儿你就按这个
+
+1447
+OK.
+OK OK
+
+1448
+OK.
+然后再按一下这个… 我不学了吧
+
+1449
+This button is for I don't want to learn it.
+
+1450
+My sight...
+我这眼睛啊
+
+1451
+is getting worse now.
+最近不如以前了
+
+1452
+I can't see things clearly.
+看东西老是虚虚乎乎的
+
+1453
+You didn't go to the doctors?
+你没去看医生啊？
+
+1454
+I don't think it's a big deal.
+应该没什么大不了的吧？
+
+1455
+I just got old.
+就是老年退化吧
+
+1456
+It's nothing. Don't worry.
+没事 别担心啊
+
+1457
+Dad. Yes?
+爸
+
+1458
+After New Year, you can move in with us.
+过完年 你就搬过来跟我们一起住
+
+1459
+I bought a house.
+我房子都买好了
+
+1460
+I'll just let you young people live together.
+你们年轻人搬过去就行了
+
+1461
+All happily.
+高高兴兴的
+
+1462
+There is no need to take care of me.
+不用照顾我
+
+1463
+Just move in with us. I had it all decorated.
+搬过来吧
+
+1464
+都装修好了
+
+1465
+You and Xiaoxiao can come live together.
+到时候你跟小晓一起搬进来住
+
+1466
+I'm not going.
+我才不去呢
+
+1467
+Why not?
+你为啥不去啊？
+
+1468
+We can look after you if you live with us.
+不是 你去了我们也好就近照顾你
+
+1469
+I don't need you to look after me.
+我什么时候用你照顾过啊？
+
+1470
+What if you get sick?
+那你生病怎么办啊？
+
+1471
+Beijing has better medical treatment than here.
+再说人北京医疗条件比这好太多了
+
+1472
+I'm still pretty healthy.
+我身体好好的 生什么病啊？
+
+1473
+You can have your eyes checked in Beijing.
+你来北京 到时候咱们把眼睛好好看一看
+
+1474
+To see what's wrong with it.
+看看到底怎么回事
+
+1475
+Or what else would you do?
+那怎么着你这…
+
+1476
+Staying in this crappy restaurant for the rest of your life?
+后半辈子 你就想在这个破餐馆待着啊？
+
+1477
+What do you mean crappy restaurant?
+什么叫破餐馆啊？
+
+1478
+It helped me feed you,
+供着你吃、供着你喝
+
+1479
+and paid your tuition.
+供着你读书
+
+1480
+Why is it a crappy restaurant now?
+怎么就成破餐馆了？
+
+1481
+Then why did I leave you and go to Beijing for?
+我离开你去北京 我干吗去了？
+
+1482
+I want us to have a good life.
+我不就是希望咱们可以过点好日子嘛
+
+1483
+Don't you get it?
+这道理你不懂啊？
+
+1484
+That is a good life for you.
+那是你的好日子
+
+1485
+I'm living a good life here.
+我的好日子就在这
+
+1486
+You think you can simply arrange other people's life when you're rich?
+你以为你有俩钱 就可以安排别人生活啊？
+
+1487
+So what if I could?
+那怎么着？我就…
+
+1488
+I'll just come back once a year.
+我就一年回来一次吧
+
+1489
+Suit yourself.
+你爱回来不回来
+
+1490
+I'm not going.
+我不去
+
+1491
+You are too much.
+你太过分了
+
+1492
+What's wrong with you?
+你怎么回事啊？
+
+1493
+What's wrong with me?
+什么我怎么回事？
+
+1494
+What's wrong with you?
+你怎么回事啊？
+
+1495
+Don't you get it as well?
+连你也不懂 是吧？
+
+1496
+I don't get it. I bought you a house.
+我不懂 我给你买房子
+
+1497
+I bought my dad a house.
+我给我爸买房子
+
+1498
+I thought you would be happy.
+我以为你们会高兴
+
+1499
+Did I do anything wrong?
+我有什么问题吗？
+
+1500
+No, you didn't.
+你没什么问题
+
+1501
+You are so right.
+你特别正确
+
+1502
+The reason why I dated you is that you could afford a house.
+我跟你在一起就是图你一套房子
+
+1503
+Your dad raised you for 20 years because all he wants is a house.
+你爸养你20多年
+
+1504
+就图你一套房子
+
+1505
+When I got my first paycheck,
+我银行账户里第一笔钱我什么都没想
+
+1506
+I went straight to find a house. Why?
+我就去看房子了 为什么？
+
+1507
+Just because...
+不就是因为…
+
+1508
+Never mind.
+不说了
+
+1509
+Say it.
+你说
+
+1510
+Just because I didn't have a house...
+不就是因为我没有房子嘛
+
+1511
+I didn't break up with you because of that.
+我当时跟你分开 不是因为咱们没有房子
+
+1512
+I wanted a home.
+我要的是一个家
+
+1513
+I know.
+我懂
+
+1514
+I know you wanted my love and a home.
+我知道你想要的是爱 是一个家
+
+1515
+I can do it now, Xiaoxiao.
+小晓 我现在可以
+
+1516
+I got the money. I got the house.
+我现在有钱 我有房子啦
+
+1517
+I can give you an address in Beijing.
+我可以让你在北京落户口
+
+1518
+I can fulfill your wish.
+我可以完成你的愿望
+
+1519
+Can't this be considered as love?
+这不是爱吗？
+
+1520
+Xiaoxiao.
+小晓
+
+1521
+Xiaoxiao.
+小晓！
+
+1522
+You have someone else, don't you?
+你是不是有人了？
+
+1523
+Are you out of your mind?
+你是不是有病啊？
+
+1524
+I'm sorry.
+对不起
+
+1525
+I'm sorry.
+对不起
+
+1526
+I didn't mean that.
+我不是那个意思
+
+1527
+Please give me another chance.
+你再给我一次机会
+
+1528
+I will do my best.
+我一定努力给你最好的
+
+1529
+If you thought back then
+如果你觉得当初
+
+1530
+I couldn't endure the tough times with you,
+我不能跟你一起过苦日子
+
+1531
+why would you assume that I could live
+那你怎么现在就能认为我愿意跟你过
+
+1532
+the good life you wanted with you now?
+你想要的那种好日子？
+
+1533
+Xiaoxiao, I really don't understand you.
+小晓 我真不懂你
+
+1534
+You never did.
+你从来都没懂过
+
+1535
+You never did.
+从来都没有
+
+1536
+I tried really hard to become what you want me to be.
+我真的已经努力变成了 你想要的样子了
+
+1537
+But I'm not the same person now.
+可是我现在 已经不是我以前那个样子了
+
+1538
+Can we make it home?
+我们还回得了家吗？
+
+1539
+Just like my dad said,
+就像我爸说的
+
+1540
+"Wherever we go,
+去到哪里
+
+1541
+we are the outsiders."
+都是异乡人
+
+1542
+When my dad passed away,
+我爸去世之前
+
+1543
+he was still thinking about you.
+心里老惦记着你
+
+1544
+Dad.
+爸
+
+1545
+Jianqing. Why did you come here?
+见清
+
+1546
+你怎么来了？
+
+1547
+Xiaoxiao is back.
+小晓回来啦？
+
+1548
+Are you hungry?
+饿了吧？咱们回家
+
+1549
+Let's go home.
+
+1550
+Hold my dad.
+扶着点我爸
+
+1551
+I was driving one day,
+有一天我在路上开车
+
+1552
+and I saw you in a red sports car.
+看见你开了一个红色跑车
+
+1553
+I followed you everywhere.
+然后我就跟着你 左拐右拐
+
+1554
+You were going too fast, I couldn't catch up.
+你开得太猛了 我真追不上
+
+1555
+It would be great if I caught up with you.
+我要是能追上你就好了
+
+1556
+The red sports car. Remember?
+红色跑车 你还记得吗？
+
+1557
+I promised I'd buy two of them for you.
+当时我答应过你要给你买两台一样的
+
+1558
+You could take turns to drive them.
+换着开
+
+1559
+I never drove any red sports car before.
+我从来没有开过什么红色跑车
+
+1560
+You missed me too much.
+你大概是因为太想我了
+
+1561
+So it was just your imagination.
+所以就觉得见到我了
+
+1562
+Time to leave.
+走啦
+
+1563
+We always parted in a hurry.
+之前分开得都匆匆忙忙的
+
+1564
+This time,
+这次
+
+1565
+let's bid our farewell properly.
+咱们好好说再见
+
+1566
+Jianqing Lin.
+林见清
+
+1567
+Goodbye.
+再见
+
+1568
+Xiaoxiao Fang.
+方小晓
+
+1569
+Goodbye.
+再见
+
+1570
+Pick the stars from the sky,
+上九天揽月
+
+1571
+bring the pearls from the ocean.
+下五洋捉鳖
+
+1572
+You will.
+会的
+
+1573
+You will find that person.
+你会找到那个人
+
+1574
+We're going to be fine.
+咱们都好好的
+
+1575
+That's right.
+好好的
+
+1576
+TO: XIAOXIAO
+
+1577
+I'm telling you.
+我跟你说啊
+
+1578
+You need to take care of Yangyang's school admission.
+阳阳上学那个事儿
+
+1579
+你可得紧张地办啊
+
+1580
+Kindergartens in Beijing are hard to get in now.
+北京现在幼儿园可难了
+
+1581
+Whether Yangyang goes to a good school or not,
+阳阳能不能上好学校
+
+1582
+it all depends on you.
+就看你了
+
+1583
+BEIJING TO YAOJIANG TO: MS. FANG
+
+1584
+BEIJING TO YAOJIANG
+
+1585
+TRAIN TICKET FROM BEIJING TO YAOJIANG
+
+1586
+Hi, Ms. Fang.
+您好 方女士
+
+1587
+Yes. For you.
+对 您的快递
+
+1588
+Xiaoxiao.
+小晓
+
+1589
+It's almost New Year.
+又快过年了
+
+1590
+I just made two stacks of sticky bean buns.
+刚刚蒸了两屉粘豆包
+
+1591
+When I took them out of the pot,
+起锅的时候
+
+1592
+the smoke covered my eyes.
+嘘到了眼睛
+
+1593
+I've still kept a stack for you this year.
+今年还是给你留了一屉
+
+1594
+I always tell you two
+我老是和你们说
+
+1595
+that home cook meals are the best.
+吃什么还是家里好
+
+1596
+The food out there just can't compare.
+那些外卖能好吃吗？
+
+1597
+I always wanted to send some food to you.
+一直想给你寄点吃的
+
+1598
+I can't ask Jianqing about it.
+又不好问见清
+
+1599
+The television is broken, Dad. Look.
+电视机坏了 爸爸 你看
+
+1600
+I'll be there right away.
+
+1601
+Lately, he seemed more mature.
+这些年 他好像突然长大了
+
+1602
+And I know it was because of you.
+我知道那是因为你
+
+1603
+About fate,
+缘份这事
+
+1604
+as long as you don't fail each other, that's enough.
+能不负对方就好
+
+1605
+It is really hard to spend your whole life together.
+想不负此生真的很难
+
+1606
+You may have to get older
+这些可能都得等你们老了
+
+1607
+to understand such feelings.
+才能体会得到
+
+1608
+As a parent, whom you choose to be with,
+做父母的 你们和谁在一起
+
+1609
+or whether you make it or not, doesn't really matter.
+有没有成就 都不重要
+
+1610
+I just hope you can live the life you want
+只希望你们能过上自己想要的日子
+
+1611
+and stay healthy.
+健健康康的
+
+1612
+Now that I'm old and can barely see,
+像我老了 眼睛瞎了
+
+1613
+Jianqing keeps saying that I know nothing.
+见清也总说我什么都不懂
+
+1614
+That year at the train station,
+那年在火车站
+
+1615
+I thought I was holding your hand,
+我还以为我握住的是你的手
+
+1616
+but it wasn't you.
+却发现那不是你
+
+1617
+Xiaoxiao is back.
+小晓回来啦？
+
+1618
+Come on. Let's go home. It's good to have you back.
+走吧 咱们回家
+
+1619
+回来就好
+
+1620
+I realized it then.
+我就明白
+
+1621
+Even if you two couldn't make it as a couple,
+就算你们俩走不到一块
+
+1622
+we would still be a family.
+我们也会是一家人
+
+1623
+Xiaoxiao,
+小晓
+
+1624
+take care of yourself.
+好好吃饭
+
+1625
+Come home anytime when you're tired.
+累了就回来
+
+1626
+I'M SORRY
+
+1627
+IAN WILL ALWAYS LOVE KELLY
+
+1628
+BASED ON HOME, CHINESE NEW YEAR
+
+1629
+XING MENG, I'M MISERABLE WITHOUT YOU
+
+1630
+ZHONGZHI TU
+
+1631
+DARN IT. I'M NOT DOING WELL
+
+1632
+MELODY, I'M GOING ON THE TRIP THAT I OWE YOU, ALL BY MYSELF
+
+1633
+MO CHEN, I'VE LOST WEIGHT. DO YOU REGRET LEAVING ME?
+
+1634
+JIAHAO ZHANG, REUNIONS OCCUR IN MOVIES ALL THE TIME,
+
+1635
+BUT WE'VE NEVER GOT THE CHANCE TO REUNITE
+
+1636
+DONG GUO, I'M GETTING MARRIED
+
+1637
+XIAOJIA, I'VE NEVER MET ANOTHER SILLY PERSON WHO LOVES TO SMILE LIKE YOU
+
+1638
+FATTY ZHAO, YOU'RE MY BIGGEST REGRET
+
+1639
+YUESEN SHANG, SORRY I DIDN'T BECOME THE PERSON YOU IMAGINED ME TO BE
+
+1640
+THE FRIDGE IS EMPTY AFTER YOU'VE LEFT
+
+1641
+I MISS YOU SO MUCH
+
+1642
+DONGHAI ZHANG, HOW ARE YOU?
+
+1643
+SHUFEN WANG, DO YOU STILL REMEMBER ME?
+
+1644
+ZHONGZHI TU, I HAVEN'T THROWN AWAY YOUR THINGS
+
+1645
+HUI ZHANG, I'M NOT GOING TO WAIT FOR YOU
+
+1646
+XING MENG, I'M MISERABLE WITHOUT YOU
+
+1647
+XIEZHE WANG, THE CHERRY BLOSSOM TREE IN WUHAN BLOOMED AGAIN
+
+1648
+ZHENGYANG FANG, JAY CHOU IS HOLDING A CONCERT AGAIN
+
+1649
+I KNOW YOU WON'T MARRY ME
+
+1650
+DON'T YOU DARE COME BACK
+
+1651
+XIANG LI, I'M SO BRAVE. CAN YOU SEE IT?
+
+1652
+RUI LI, SORRY AND THANK YOU FOR TEACHING ME EVERYTHING
+
+1653
+YI WANG, YOU MUST LIVE HAPPILY
+
+1654
+YAJUN CHEN, I DON'T HATE YOU ANYMORE
+
+1655
+YANG WANG, THE SPICY HOT POT IN FRONT OF OUR SCHOOL CLOSED LAST YEAR
+
+1656
+Dad.
+爸
+
+1657
+I saw Xiaoxiao.
+我碰到小晓了
+
+1658
+She seemed to be doing well.
+她看上去过得挺好的
+
+1659
+I could tell you were worried about us back then.
+那年我看得出您担心我们
+
+1660
+I also knew,
+但是我也知道
+
+1661
+even though you never asked,
+即便您没问
+
+1662
+you knew what was going on.
+其实也什么都知道了
+
+1663
+I'm learning bit by bit
+您给我的那个菜单啊
+
+1664
+the recipe you gave me.
+我现在一点点地在学
+
+1665
+Although, I haven't been able to replicate the same taste.
+虽然怎么都做不出您的那个味道
+
+1666
+I wanted to apologize to you.
+一直想跟您说一声对不起
+
+1667
+I could've taught you how to use the remote more patiently.
+我明明可以耐心点教您 怎么使用那个遥控器
+
+1668
+But I didn't.
+但是我没有
+
+1669
+I could've listened eagerly to the stories from your past.
+我明明可以好好听您讲这些年的经历
+
+1670
+But I didn't.
+但是我没有
+
+1671
+I could've spent more time with you.
+我明明可以再多一点时间陪您
+
+1672
+But I didn't.
+但是我没有
+
+1673
+I could've held your hand and said some nice words.
+我明明可以握住您的手 说一些贴心的话
+
+1674
+But I didn't.
+但是我没有
+
+1675
+Dad.
+爸
+
+1676
+You're with Mom now, right?
+现在你和妈妈在一起了吧？
+
+1677
+Don't worry about us now.
+那就不要为我们操心了
+
+1678
+We're all doing well.
+我们过得都蛮好的
+
+1679
+Are you hungry? Let's go home.
+饿了吗？咱回家了
+
+1680
+This is my first letter to you.
+这是我第一次给您写信
+
+1681
+If I have things to tell you in the future,
+如果以后有话还想跟您说
+
+1682
+I'll write to you again.
+我还会写信给您
+
+1683
+I'm sure you would be able to hear me.
+相信您一定能听得到
+
+1684
+It's a pity I couldn't tell you this in time.
+很遗憾没能在来得及的时候说这句话
+
+1685
+Dad.
+爸
+
+1686
+I love you.
+我爱你
+
+1687
+I love you dearly.
+很爱
+
+1688
+I'm sure you could hear me.
+您一定听到了吧？
+
+1689
+Jianqing.
+见清
+
+1690
+DON'T WAIT UNTIL IT'S TOO LATE TO SAY, "I'M SORRY"
+
+1691
+DON'T WAIT UNTIL IT'S TOO LATE TO SAY, "I LOVE YOU"
+
+1692
+We're going to be fine.
+咱们都好好的
+
+1693
+That's right.
+好好的
+
