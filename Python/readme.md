@@ -2,7 +2,7 @@
 
 ## 小项目
 
-* [准考证号“爆破”——解决忘记准考证号无法查询考研初始成绩（校官网）]()
+* [准考证号“爆破”——解决忘记准考证号无法查询考研初始成绩（校官网）](https://github.com/dyngq/summary-notebooks-of-postgraduate/tree/master/Python/burst_number)
 * 小脚本：批处理提取word信息到excel
 
 ## tips
