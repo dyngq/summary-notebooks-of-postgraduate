@@ -16,3 +16,10 @@
 
 * python3——“->”的含义 ： ->用于指示函数返回的类型
 !['dyngq_images'](images/dyngq_2020-03-20-00-13-45.png)
+
+* **if _name_ == '_main_'** : 的意思是：当.py文件被直接运行时，if _name_ == '_main_'之下的代码块将被运行；当.py文件以模块形式被导入时，if _name_ == '_main_'之下的代码块不被运行。
+* self.__classs__.__name__ 获取类名。
+* getattr() 函数用于返回一个对象属性值。
+* **dictionary.keys()** 方法是Python的字典方法，它将字典中的所有键组成一个可迭代序列并返回。在Python3中，keys函数不再返回一个列表，而是一个dict_keys类型的**可迭代序列**。
+
+* [正则表达式](/misc/re/)
