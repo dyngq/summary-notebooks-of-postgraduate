@@ -4,16 +4,12 @@
 
 ### tensor基础
 
-```python
+```{.python .input}
 import torch
 torch.__version__
 ```
 
-
-    '1.3.1'
-
-
-```python
+```{.python .input}
 x = torch.rand(5, 3)
 # print(x)
 x = torch.zeros(5, 3, dtype=torch.long)
@@ -31,20 +27,7 @@ y = torch.rand(5, 3)
 print(x + y)
 ```
 
-    <class 'builtin_function_or_method'>
-    torch.Size([5, 3])
-    tensor([[1., 1., 1.],
-            [1., 1., 1.],
-            [1., 1., 1.],
-            [1., 1., 1.],
-            [1., 1., 1.]], dtype=torch.float64)
-    tensor([[1.4885, 1.3968, 1.5492],
-            [1.2027, 1.9136, 1.1277],
-            [1.2467, 1.5696, 1.7672],
-            [1.6679, 1.0424, 1.4230],
-            [1.0175, 1.9733, 1.7792]], dtype=torch.float64)
-
-```python
+```{.python .input}
 # 方法二
 # print(torch.add(x, y))
 
@@ -58,32 +41,23 @@ print(x + y)
 # print(y)
 ```
 
-
-```python
+```{.python .input}
 print(y[:,1])
 ```
 
-    tensor([0.3968, 0.9136, 0.5696, 0.0424, 0.9733])
-
-```python
+```{.python .input}
 x = torch.randn(4, 4)
 y = x.view(16)
 print(x.size(),y.size())
 ```
 
-    torch.Size([4, 4]) torch.Size([16])
-
-```python
+```{.python .input}
 x = torch.randn(4, 4)
 # x = x.reshape(1,-1)
 x.size()
 ```
 
-
-    torch.Size([4, 4])
-
-
-```python
+```{.python .input}
 y = x.view(2, 8)
 y = x.reshape(2, 8)
 print(x.size(),y.size())
@@ -92,18 +66,13 @@ x = torch.randn(1)
 x.item()
 ```
 
-    torch.Size([4, 4]) torch.Size([2, 8])
-
-    0.7401983737945557
-
 ### Numpy 相关操作
 
 tensor2numpy
 <br />
 将张量转换成numpy数组
 
-
-```python
+```{.python .input}
 a = torch.ones(5)
 print(a)
 
@@ -111,27 +80,17 @@ b = a.numpy()
 print(b)
 ```
 
-    tensor([1., 1., 1., 1., 1.])
-    [1. 1. 1. 1. 1.]
-
-
 将张量+1，并观察上题中numpy数组的变化
 
-
-```python
+```{.python .input}
 a.add_(1)
 print(a)
 print(b)
 ```
 
-    tensor([2., 2., 2., 2., 2.])
-    [2. 2. 2. 2. 2.]
-
-
 从numpy数组创建张量
 
-
-```python
+```{.python .input}
 import numpy as np
 a = np.ones(4)
 b = torch.tensor(a)
@@ -139,21 +98,13 @@ b = torch.from_numpy(a)
 b
 ```
 
-
-    tensor([1., 1., 1., 1.], dtype=torch.float64)
-
 将numpy数组+1并观察上题中张量的变化
 
-
-```python
+```{.python .input}
 np.add(a, 1, out=a)
 print(a)
 print(b)
 ```
-
-    [2. 2. 2. 2.]
-    tensor([2., 2., 2., 2.], dtype=torch.float64)
-
 
 ## 自动微分
 
@@ -161,31 +112,21 @@ print(b)
 
 新建一个张量，并设置requires_grad=True
 
-
-```python
+```{.python .input}
 x = torch.ones(2, 2, requires_grad=True)
 print(x)
 ```
 
-    tensor([[1., 1.],
-            [1., 1.]], requires_grad=True)
-
-
 对张量进行任意操作（y = x + 2）
 
-
-```python
+```{.python .input}
 y = 2*x**2 + 1
 print(y)
 print(y.grad_fn)
 # out = y.mean()
 ```
 
-    tensor([[3., 3.],
-            [3., 3.]], grad_fn=<AddBackward0>)
-    <AddBackward0 object at 0x000001FE254F3828>
-
-```python
+```{.python .input}
 z = y ** 2 * 3
 out = z.mean()
 
@@ -193,32 +134,21 @@ print(z) # z多了MulBackward
 print(out) # out多了MeanBackward
 ```
 
-    tensor([[27., 27.],
-            [27., 27.]], grad_fn=<MulBackward0>)
-    tensor(27., grad_fn=<MeanBackward0>)
-
-
 ### 梯度
 
-```python
+```{.python .input}
 out.backward()
 ```
 
-
-```python
+```{.python .input}
 print(x.grad)
 ```
-
-    tensor([[18., 18.],
-            [18., 18.]])
-
 
 ![求微分](https://img.dyngq.top/images/20201005161336.png)
 
 创建一个结果为矢量的计算过程（y=x*2^n）
 
-
-```python
+```{.python .input}
 x = torch.randn(3, requires_grad=True)
 
 y = x * 2
@@ -228,26 +158,18 @@ while y.data.norm() < 1000:
 print(y)
 ```
 
-    tensor([-59.5318, 726.0163, 771.8844], grad_fn=<MulBackward0>)
-
-
 计算v = [0.1, 1.0, 0.0001]处的梯度
 
-
-```python
+```{.python .input}
 v = torch.tensor([0.1, 1.0, 0.0001], dtype=torch.float)
 y.backward(v)
 
 print(x.grad)
 ```
 
-    tensor([5.1200e+01, 5.1200e+02, 5.1200e-02])
-
-
 关闭梯度的功能
 
-
-```python
+```{.python .input}
 print(x.requires_grad)
 print((x ** 2).requires_grad)
 
@@ -261,13 +183,6 @@ print(y.requires_grad)
 print(x.eq(y).all())
 ```
 
-    True
-    True
-    False
-    True
-    False
-    tensor(True)
-
 pytorch a.equal(b) 与a.eq(b) <br/>
 a,b是两个列表;<br/>
 a.equal(b)要求整个列表完全相同才是True;<br/>
@@ -276,8 +191,7 @@ a.eq(b) 相同位置值相同则返回对应的True,返回的是一个列表.
 ## 神经网络
 ### 定义网络
 
-
-```python
+```{.python .input  n=19}
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -311,22 +225,26 @@ class Net(nn.Module):
         x = F.relu(self.fc2(x))
         # 36.使用fc3
         x = self.fc3(x)
-        return x
+#         return x
+        output = F.softmax(x, dim=1)
+        return output
 
 
 net = Net()
 print(net)
 ```
 
-    Net(
-      (conv1): Conv2d(3, 6, kernel_size=(5, 5), stride=(1, 1))
-      (conv2): Conv2d(6, 16, kernel_size=(5, 5), stride=(1, 1))
-      (fc1): Linear(in_features=400, out_features=120, bias=True)
-      (fc2): Linear(in_features=120, out_features=84, bias=True)
-      (fc3): Linear(in_features=84, out_features=10, bias=True)
-    )
+```{.json .output n=19}
+[
+ {
+  "name": "stdout",
+  "output_type": "stream",
+  "text": "Net(\n  (conv1): Conv2d(3, 6, kernel_size=(5, 5), stride=(1, 1))\n  (conv2): Conv2d(6, 16, kernel_size=(5, 5), stride=(1, 1))\n  (fc1): Linear(in_features=400, out_features=120, bias=True)\n  (fc2): Linear(in_features=120, out_features=84, bias=True)\n  (fc3): Linear(in_features=84, out_features=10, bias=True)\n)\n"
+ }
+]
+```
 
-```python
+```{.python .input  n=20}
 # 打印网络的参数
 params = list(net.parameters())
 # print(params)
@@ -335,11 +253,17 @@ print(len(params))
 print(params[0].size())
 ```
 
-    10
-    torch.Size([6, 3, 5, 5])
+```{.json .output n=20}
+[
+ {
+  "name": "stdout",
+  "output_type": "stream",
+  "text": "10\ntorch.Size([6, 3, 5, 5])\n"
+ }
+]
+```
 
-
-```python
+```{.python .input  n=21}
 #随机输入一个向量，查看前向传播输出
 input = torch.randn(1, 3, 32, 32)
 # print(input)
@@ -347,29 +271,31 @@ out = net(input)
 print(out)
 ```
 
-    tensor([[-0.0495,  0.0040, -0.0026, -0.0695, -0.0843,  0.0612,  0.1408, -0.0546,
-             -0.0449, -0.0566]], grad_fn=<AddmmBackward>)
+```{.json .output n=21}
+[
+ {
+  "name": "stdout",
+  "output_type": "stream",
+  "text": "tensor([[0.1035, 0.1024, 0.1140, 0.0950, 0.1042, 0.1021, 0.0905, 0.0907, 0.0959,\n         0.1016]], grad_fn=<SoftmaxBackward>)\n"
+ }
+]
+```
 
-```python
+```{.python .input}
 #将梯度初始化
 net.zero_grad()
 #随机一个梯度进行反向传播
 out.backward(torch.randn(1, 10))
 ```
 
-
-```python
+```{.python .input}
 print(net.conv1.bias.grad)
 ```
-
-    tensor([ 0.0215,  0.0639, -0.0101,  0.0102,  0.0425,  0.0004])
-
 
 ### 损失函数
 用自带的MSELoss()定义损失函数
 
-
-```python
+```{.python .input}
 criterion = nn.MSELoss()
 
 # 随机一个真值，并用随机的输入计算损失
@@ -383,9 +309,7 @@ loss = criterion(output, target)  # 计算损失
 print(loss)
 ```
 
-    tensor(0.8646, grad_fn=<MseLossBackward>)
-
-```python
+```{.python .input}
 # 将梯度初始化，计算上一步中loss的反向传播
 
 net.zero_grad()
@@ -394,10 +318,7 @@ print('conv1.bias.grad before backward')
 print(net.conv1.bias.grad)
 ```
 
-    conv1.bias.grad before backward
-    tensor([0., 0., 0., 0., 0., 0.])
-
-```python
+```{.python .input}
 # 计算上上一步中loss的反向传播
 
 loss.backward()
@@ -406,15 +327,10 @@ print('conv1.bias.grad after backward')
 print(net.conv1.bias.grad)
 ```
 
-    conv1.bias.grad after backward
-    tensor([0.0072, 0.0010, 0.0057, 0.0040, 0.0094, 0.0036])
-
-
 ### 更新权重
 定义SGD优化器算法，学习率设置为0.01
 
-
-```python
+```{.python .input}
 import torch.optim as optim
 optimizer = optim.SGD(net.parameters(), lr=0.01)
 
@@ -434,8 +350,7 @@ optimizer.step()
 
 构造一个transform，将三通道(0,1)区间的数据转换成(-1,1)的数据
 
-
-```python
+```{.python .input}
 import torchvision
 import torchvision.transforms as transforms
 
@@ -444,8 +359,7 @@ import torchvision.transforms as transforms
 #      transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))])
 ```
 
-
-```python
+```{.python .input}
 # 读取数据集
 transform = transforms.Compose(
     [
@@ -473,15 +387,13 @@ classes = ('plane', 'car', 'bird', 'cat',
            'deer', 'dog', 'frog', 'horse', 'ship', 'truck')
 ```
 
-
-```python
+```{.python .input}
 net2 = Net()
 criterion2 = nn.CrossEntropyLoss()
 optimizer2 = optim.SGD(net2.parameters(), lr=0.001, momentum=0.9)
 ```
 
-
-```python
+```{.python .input}
 for epoch in range(2): 
 
     running_loss = 0.0
@@ -511,9 +423,7 @@ for epoch in range(2):
 print('Finished Training')
 ```
 
-    Finished Training
-
-```python
+```{.python .input}
 import matplotlib.pyplot as plt
 dataiter = iter(testloader)
 images, labels = dataiter.next()
@@ -524,12 +434,7 @@ print('GroundTruth: ', ' '.join('%5s' % classes[labels[j]] for j in range(4)))
 torchvision.utils.make_grid(images).size()
 ```
 
-    GroundTruth:    cat  ship  ship plane
-
-    torch.Size([3, 240, 274])
-
-
-```python
+```{.python .input}
 outputs = net2(images)
 
 _, predicted = torch.max(outputs, 1)
@@ -538,9 +443,7 @@ print('Predicted: ', ' '.join('%5s' % classes[predicted[j]]
                               for j in range(4)))
 ```
 
-    Predicted:    cat  ship  ship  ship
-
-```python
+```{.python .input}
 correct = 0
 total = 0
 with torch.no_grad():
@@ -555,9 +458,7 @@ print('Accuracy of the network on the 10000 test images: %d %%' % (
     100 * correct / total))
 ```
 
-    Accuracy of the network on the 10000 test images: 39 %
-
-```python
+```{.python .input}
 # 4.6 存取模型
 # 58.保存训练好的模型
 
@@ -587,24 +488,47 @@ tensor.normal_(mean, std) | 标准正态分布
 
 ## 一些基本操作
 
-|               函数                |               功能                |
-| :-------------------------------: | :-------------------------------: |
-|               trace               |     对角线元素之和(矩阵的迹)      |
-|               diag                |            对角线元素             |
-|             triu/tril             | 矩阵的上三角/下三角，可指定偏移量 |
-|              mm/bmm               |     矩阵乘法，batch的矩阵乘法     |
+|
+函数
+|
+功能                |
+|
+:-------------------------------: |
+:-------------------------------: |
+|
+trace               |     对角线元素之和(矩阵的迹)
+|
+|               diag
+|            对角线元素             |
+|             triu/tril
+|
+矩阵的上三角/下三角，可指定偏移量 |
+|              mm/bmm               |     矩阵乘法，batch的矩阵乘法
+|
 | addmm/addbmm/addmv/addr/baddbmm.. |             矩阵运算              |
-|                 t                 |               转置                |
-|             dot/cross             |             内积/外积             |
-|              inverse              |             求逆矩阵              |
-|                svd                |            奇异值分解             |
+|
+t
+|
+转置
+|
+|             dot/cross
+|             内积/外积
+|
+|
+inverse              |
+求逆矩阵
+|
+|                svd
+|
+奇异值分解
+|
 PyTorch中的Tensor支持超过一百种操作，包括转置、索引、切片、数学运算、线性代数、随机数等等，可参考[官方文档](https://pytorch.org/docs/stable/tensors.html)。
-
 !['dyngq_images'](https://img.dyngq.top/images/20200904151823.png)
 
 ## Ques
 
-1. log_softmax比softmax多计算一次log，意义在于 加快计算速度，数值上也更稳定。
+1.
+log_softmax比softmax多计算一次log，意义在于 加快计算速度，数值上也更稳定。
 参考资料：[PyTorch学习笔记——softmax和log_softmax的区别、CrossEntropyLoss() 与 NLLLoss()
 的区别、log似然代价函数](https://blog.csdn.net/hao5335156/article/details/80607732)
 

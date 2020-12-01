@@ -40,13 +40,13 @@ docker commit -a "dyngq" -m "test" [容器名称或id] [打包的镜像名称]:[
     # Base Images
     ## 从带有numpy的python镜像
     FROM numpy:1.0
-
+    
     ## 把当前文件夹里的文件构建到镜像的根目录下
     ADD . /
-
+    
     ## 指定默认工作目录为根目录（需要把run.sh和生成的结果文件都放在该文件夹下，提交后才能运行）
     WORKDIR /
-
+    
     ## 镜像启动后统一执行 sh run.sh
     CMD ["sh", "run.sh"]
 
@@ -76,29 +76,29 @@ py文件
     # import pandas as pd
     import numpy as np
     import json
-
+    
     # df = pd.read_csv("/tcdata/num_list.csv")
     # df = pd.read_csv("./docker/tianchi_submit_demo/data/tcdata/num_list.csv")
     # print(df)
-
+    
     numbers = np.loadtxt(open("./tcdata/num_list.csv","rb"),delimiter=",",skiprows=0,dtype='int')
     # numbers = np.loadtxt(open("./docker/tianchi_submit_demo/data/tcdata/num_list.csv","rb"),delimiter=",",skiprows=0,dtype='int')
-
+    
     # numbers = np.random.randint(1,30,size=50,dtype='int32')
     # print(numbers)
     # np.savetxt('./docker/tianchi_submit_demo/data/tcdata/num_list.csv', numbers,delimiter = ',')
-
+    
     # print("hello_world")
-
+    
     # print(numbers,type(numbers.tolist()))
-
+    
     r_sum = np.sum(numbers)
-
+    
     top10 = numbers[np.argpartition(numbers,-10)[-10:]]
     top10 = np.sort(top10).tolist()
     top10.reverse()
     # print(top10, type(top10))
-
+    
     result = {
         "Q1": "Hello world",
         "Q2": r_sum.tolist(),
