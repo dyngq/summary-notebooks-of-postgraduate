@@ -1,0 +1,38 @@
+黄岛区、城阳区基本没有啤酒屋，市北区多，地图一搜啤酒屋，到处是。火车站附近吃平价海鲜可以去天津路37号，老街里海鲜烧烤，去了可以报我名字。营口路和台东可以去董家烧烤，食材讲究，不宰客，只有晚上营业。想喝新鲜的四厂鲜啤，可以去雷雷啤酒屋和德福瑞啤酒屋，这俩挨着鲍岛农贸市场，菜和烧烤一般，但是酒特别新鲜。团岛农贸市场也不错，晚上七点收摊，可以去外面的新雅老头烧烤，别去威威啤酒屋，宰客的黑店。李沧区可以去本宫烧烤小龙虾，味道非常好。也可以去聚点啤酒吧，他家有9种青啤的鲜啤，也可以报我名字。三宝电烤肉，有些评论说是最好的电烤肉，店里说只卖当天鲜啤，有的地图导航不准，去了可以问周围居民。觉得啤酒屋太破的，可以去杭州路吉祥饭店，他家也有烧烤，人多，饭点比较吵。
+
+
+119.167.70.210
+218.58.59.73
+119.167.70.210
+119.167.70.210:27790
+
+2020/11/30 19:54:40 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:54:59 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:55:24 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:55:57 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:56:31 [W] [http.go:86] do http proxy request error: http: no Host in request URL
+2020/11/30 19:56:31 [W] [http.go:86] do http proxy request error: http: no Host in request URL
+2020/11/30 19:56:51 [W] [http.go:86] do http proxy request error: http: no Host in request URL
+2020/11/30 19:57:11 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:57:18 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:57:29 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:58:07 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:58:09 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:58:12 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:58:29 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:58:51 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 19:59:46 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 20:00:08 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 20:00:11 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 20:01:38 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 20:01:42 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 20:01:54 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 20:02:40 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 20:02:41 [W] [http.go:86] do http proxy request error: no such domain: 118.178.193.7 /sdk
+2020/11/30 20:02:42 [W] [http.go:86] do http proxy request error: no such domain: 118.178.193.7 /nmaplowercheck1606737761
+2020/11/30 20:02:42 [W] [http.go:86] do http proxy request error: no such domain: 118.178.193.7 /HNAP1
+2020/11/30 20:02:42 [W] [http.go:86] do http proxy request error: no such domain: 118.178.193.7 /evox/about
+2020/11/30 20:03:04 [W] [http.go:86] do http proxy request error: no such domain: 118.178.193.7 /
+2020/11/30 20:03:05 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 20:03:14 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
+2020/11/30 20:04:04 [I] [proxy.go:103] [2054cd7e03bd065d] [ssh] get a new work connection: [119.167.70.210:27790]
