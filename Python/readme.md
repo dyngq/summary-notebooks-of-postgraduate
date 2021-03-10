@@ -23,6 +23,51 @@
      2. `datetime.strptime(str, '%m/%d/%Y')`
      3. 第三方包 from dateutil.parser import parse
      4. pandas.to_datetime([str])
+  
+* 排列组合 **itertools** 
+
+  1. ```python
+     import itertools as it 
+     
+     print(list(it.permutations(['c','d','a'],3)))
+     s = list(it.product(range(2), repeat=5)) # 二进制组合
+     ```
+
+  2. 123
+
+* 进制转换
+
+  1. ```python
+     int('10000000',2)  # 128,   2进制转换为10进制
+     int('200',8)  #  128 ，     8进制转换为10进制
+     int('80',16)  #  128 ,     16进制转换为10进制
+     
+     bin(128)  # '0b10000000'，     10进制转2进制
+     oct(128)  # '0o200'，          10进制转8进制
+     hex(128)  # '0x80'，           10进制转16进制
+     
+     与运算 （&）：0&0 , 0&1 , 1&0  都为0，    1&1=1
+     
+     或运算（|）：0|1=1|0=1|1=1，0|0=0
+     
+     求反运算（~）：~0=1，~1=0，对于整数x有~x=-(x+1)
+     
+     异或运算（^）：0^0=1^1=0，0^1=1^0=1
+     
+     左移位运算（<<）：原来的所有位左移，最低位补0，相当于乘以2
+     
+     右移位运算（>>）：原来的所有位右移，最低位丢弃，最高位使用符号位填充，相当于整除2  
+     
+     print(0b110 & 0b010)#2
+     print(3|2)#3
+     print(3^2)#1
+     print(~2)#-3
+     print(1<<2)#4
+     print(4>>2)#1
+     ```
+
+  2. 123
+
 * 
 
 ## tips
@@ -43,13 +88,10 @@
 * Python中*args和**kwargs的区别 ： [参考链接](https://www.cnblogs.com/yunguoxiaoqiao/p/7626992.html)
 * [python numpy 常用随机数的产生方法](https://blog.csdn.net/m0_37804518/article/details/78490709)
 * [ln -s 软链接知识总结](https://www.cnblogs.com/hxy5/p/9460063.html)
-
 * python3——“->”的含义 ： ->用于指示函数返回的类型
 !['dyngq_images'](images/dyngq_2020-03-20-00-13-45.png)
-
 * **if _name_ == '_main_'** : 的意思是：当.py文件被直接运行时，if _name_ == '_main_'之下的代码块将被运行；当.py文件以模块形式被导入时，if _name_ == '_main_'之下的代码块不被运行。
 * self.__classs__.__name__ 获取类名。
 * getattr() 函数用于返回一个对象属性值。
 * **dictionary.keys()** 方法是Python的字典方法，它将字典中的所有键组成一个可迭代序列并返回。在Python3中，keys函数不再返回一个列表，而是一个dict_keys类型的**可迭代序列**。
-
 * [正则表达式](/misc/re/)
